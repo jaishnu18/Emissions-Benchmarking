@@ -13,10 +13,10 @@ data = sorted(data[:150], key=lambda x: len(x["inputs"]))
 
 # Define model configs
 models = {
-    # "qwen2.5-7b": "Qwen/Qwen2.5-7B",
-    # "llama2-7b": "meta-llama/Llama-2-7b-hf",
-     "llama3.1-8b": "meta-llama/Meta-Llama-3-8B",
-    # "mistral-7b": "mistralai/Mistral-7B-v0.1"
+    "qwen2.5-7b": "Qwen/Qwen2.5-7B",
+    "llama2-7b": "meta-llama/Llama-2-7b-hf",
+    "llama3.1-8b": "meta-llama/Meta-Llama-3-8B",
+    "mistral-7b": "mistralai/Mistral-7B-v0.1"
 }
 
 def build_prompt(text):
