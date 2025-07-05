@@ -1,0 +1,8 @@
+model_id,rouge1_f,rouge2_f,rougeL_f
+llama2-7b,0.0604,0.0326,0.0475
+model_id,rouge1_f,rouge2_f,rougeL_f
+llama3.1-8b,0.1368,0.071,0.0984
+model_id,rouge1_f,rouge2_f,rougeL_f
+qwen2.5-7b,0.1736,0.0851,0.1146
+model_id,rouge1_f,rouge2_f,rougeL_f
+mistral-7b,0.0726,0.0412,0.0576

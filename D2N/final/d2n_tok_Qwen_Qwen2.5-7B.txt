@@ -1,0 +1,1103 @@
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[patient] okay. [doctor] okay. so, um, i'm gon na put you in a splint. so i'm gon na put you in a splint, and i'm gon na put you on a little bit of pain medicine. okay. so, um, i'm gon na put you in a splint. so i'm gon na put you in a splint, and i'm gon na put you on a little bit of pain medicine. okay. so, um, i'm gon na put you in a splint. so i'm gon na put you in a splint, and i'm gon na put you on a little bit of pain medicine. okay. so, um, i'm gon na put you in a splint. so i'm
+
+Summary of assessment and plan
+[Answer] The patient is a 25-year-old female who presented with a complaint of pain in her right hand. She reported that the pain started 2 days ago and has been gradually worsening. The pain is sharp and localized to the base of her right thumb. She denies any history of trauma or injury to the hand. On examination, there is tenderness and swelling at the base of the thumb. There is no evidence of redness or warmth. The patient is able to move her thumb without significant pain. X-rays of the hand were taken and showed a fracture at the base of the thumb. The patient was diagnosed with a fracture of the base of the thumb and was prescribed Tramadol 50 mg every 6 hours as needed for pain. A finger splint was provided to immobil
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[doctor] you're welcome. [patient] thank you. [doctor] you're welcome. [patient] thank you. [doctor] you're welcome. [patient] thank you. [doctor] you're welcome. [patient] thank you. [doctor] you're welcome. [patient] thank you. [doctor] you're welcome. [patient] thank you. [doctor] you're welcome. [patient] thank you. [doctor] you're welcome. [patient] thank you. [doctor] you're welcome. [patient] thank you. [doctor] you're welcome. [patient] thank you. [doctor] you're welcome. [patient] thank you. [doctor] you're
+
+Summary of assessment and plan
+[Answer] The patient is a 25-year-old female who presented with a 2-day history of right knee pain. She reports that the pain started after she fell on her right knee while playing soccer. She denies any swelling or bruising. On examination, there is tenderness over the lateral aspect of the knee. There is no effusion or instability. The range of motion is full. The patient is able to bear weight on the affected knee. X-rays of the knee are normal. The patient is diagnosed with a lateral collateral ligament sprain. The plan is to recommend ice and anti-inflammatory medications. The patient is prescribed Motrin, 800 mg to take 3 times a day with food. She will follow up with the physician in 1 week or as needed."
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[patient] okay. [doctor] okay. so, i'm going to start you on mobic 15 milligrams once a day. i want you to use ice for the pain, and it should get better in the next week or so. if it's not getting better, of course, come on back and see me. [patient] okay, sounds good. [doctor] hey, dragon. go ahead and um, pres- do the orders and um, procedures uh, as described. come with me, and uh, i'll get you checked out. dragon, go ahead and finish off the note. [patient] okay. [doctor] okay. so, i'm going to start you on mobic 15 milligrams once a day. i want you
+
+Summary of assessment and plan
+[Answer] The patient is a 55-year-old female who presented with a 2-day history of right knee pain. She has a history of osteoarthritis. She has no other significant medical history. She has no known drug allergies. She is not on any medications. She has no known drug allergies. She has no known drug allergies. She has no known drug allergies. She has no known drug allergies. She has no known drug allergies. She has no known drug allergies. She has no known drug allergies. She has no known drug allergies. She has no known drug allergies. She has no known drug allergies. She has no known drug allergies. She has no known drug allergies. She has no known drug allergies. She has no known drug allergies. She has no known drug allergies.
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[patient] okay. [doctor] hey, dragon, order the medications and procedures mentioned. and why don't you come with me, and we'll get you checked out? [patient] okay. [doctor] hey, dragon, finalize the report. [patient] okay. [doctor] hey, dragon, order the medications and procedures mentioned. and why don't you come with me, and we'll get you checked out? [patient] okay. [doctor] hey, dragon, finalize the report. [patient] okay. [doctor] hey, dragon, order the medications and procedures mentioned. and why don't you come with me, and we'll get you checked out? [patient] okay. [doctor] hey, dragon, finalize the report. [
+
+Summary of assessment and plan
+[Answer] The patient is a 55-year-old female who presented with a complaint of pain in her right hand. She has a history of rheumatoid arthritis and has been taking Mobic 15 mg once a day for the past 2 weeks. She has not noticed any improvement in her symptoms. She has no other medical problems and is not taking any other medications. She has no allergies to medications. She has no family history of any medical problems. She has no social history of smoking or alcohol use. She has no occupational history of exposure to any hazardous substances. She has no history of trauma to her right hand. She has no history of any surgeries. She has no history of any previous hand injuries. She has no history of any previous hand surgeries. She has no history of any
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+goodbye. [patient] goodbye. [doctor] judy gomez, mrn 869723. date of birth, 5, 7, 1961. she's in office today for ongoing management of psoriatic arthritis. hello, judy, how are you doing today? [patient] i'm doing good, thank you. how are you? [doctor] i'm great, thanks. so how have you been since the last time? i know the last time we were talking about decreasing your prednisone dose, correct? [patient] yes. i'm just on one now and that seems to be enough. [doctor] aw, that's great to hear. [patient] yeah, there were a couple days there i took
+
+Summary of assessment and plan
+[Answer] The patient will be referred to a rheumatologist for further evaluation and management.
+
+High risk medication use.
+ The patient will be educated on the risks and benefits of high risk medications and will be monitored closely for any adverse effects. The patient will be advised to report any new or worsening symptoms to their healthcare provider immediately.
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[doctor] all right. so, you have a right hand index finger contusion. uh, you have some tenderness right here. there's no fracture on the tip of your finger. uh, so, the diagnosis would be a right hand, uh, index finger contusion on the tip of your finger, okay? so, i would recommend we get you a s- uh, aluminum foam splint and we'll get you some motrin. uh, we'll give you 600 milligrams every six hours and we'll take that for about a week. and if it doesn't get better, why don't you call us and come back at that point? [patient] okay. [doctor] okay. hey, dragon, order the medication and procedures we
+
+Summary of assessment and plan
+[Answer] The patient is a 45-year-old female who presented with a 2-week history of pain in her right hand. She has a history of rheumatoid arthritis. She has been taking Motrin 600 mg every 6 hours for a week. She has not improved. She has a history of rheumatoid arthritis. She has a history of rheumatoid arthritis. She has a history of rheumatoid arthritis. She has a history of rheumatoid arthritis. She has a history of rheumatoid arthritis. She has a history of rheumatoid arthritis. She has a history of rheumatoid arthritis. She has a history of rheumatoid arthritis. She has a history of rheumatoid arthritis. She has a history of rheumatoid arthritis. She
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[doctor] okay. [patient] thank you. [doctor] you're welcome. [patient] bye. [doctor] bye. [doctor] patient is pamela cook. medical record number is 123546. she's a 36-year-old female post bilateral reduction mammoplasty on 10-10 20-20. [doctor] hey, how are you? [patient] good. how are you? [doctor] i'm doing well. it's good to see you. how have you been? [patient] i've been doing good. [doctor] great. how about your breasts, are they doing all right? [patient] great. [doctor] are you having any chills, fever, nausea,
+
+Summary of assessment and plan
+[Answer] - Continue to monitor for any signs of infection or wound dehiscence. 
+ - Schedule a follow-up appointment in 2 weeks to assess the healing process and address any concerns.
+The patient, Pamela Cook, is a 36-year-old female who underwent bilateral reduction mammoplasty on 10/10/2020. She is currently experiencing some widening of the scar tissue bilaterally. The plan is to obtain bilateral breast photos today to monitor scarring, continue using Mederma scar gel and performing incisional scar massage twice daily, and monitor for any signs of infection or wound dehiscence. A follow-up appointment is scheduled in 2 weeks to assess the healing process and address any concerns.
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[patient] okay. [doctor] all right. [patient] okay. [doctor] all right. [patient] okay. [doctor] all right. [patient] okay. [doctor] all right. [patient] okay. [doctor] all right. [patient] okay. [doctor] all right. [patient] okay. [doctor] all right. [patient] okay. [doctor] all right. [patient] okay. [doctor] all right. [patient] okay. [doctor] all right. [patient] okay. [doctor] all right. [patient] okay. [doctor] all right. [patient] okay. [doctor] all right. [patient] okay. [doctor] all right. [patient] okay. [
+
+Summary of assessment and plan
+[Answer] The patient is a 35-year-old female who presented with a 2-day history of right shoulder pain. She reports that she was doing yard work and felt a pop in her shoulder. She has pain with movement and is unable to lift her arm above her head. She has no history of trauma or prior shoulder pain. She has no other medical problems and takes no medications. She has no allergies. She has no family history of shoulder problems. She has no social history of smoking or alcohol. She has no occupational history of heavy lifting or repetitive motion. She has no history of falls or accidents. She has no history of diabetes or hypertension. She has no history of heart disease or stroke. She has no history of cancer. She has no history of kidney or liver disease. She has
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+doctor
+The patient, Russell, has been experiencing sharp pain on the right side of his abdomen for several days. He has a kidney stone, as confirmed by a CT scan, and is being treated with pain medication, fluid intake, and a strainer to catch the stone. The doctor will follow up in one to two weeks and may consider further treatments like lithotripsy or ureteroscopy if symptoms persist.
+
+Summary of assessment and plan
+[Answer] I have also ordered a repeat CT scan in 2 weeks to ensure that the stone has passed.
+ - Surgical Reasoning: If the stone does not pass in 2 weeks, he will be referred to a urologist for further evaluation.
+ - Surgical Treatment: If the stone is still present, he will be referred to a urologist for further evaluation. The urologist may recommend a ureteroscopy or other minimally invasive procedure to remove the stone.
+ - Follow-up: The patient will be followed up in 2 weeks for a repeat CT scan to ensure that the stone has passed. If the stone is still present, he will be referred to a urologist for further evaluation.
+2. Acute cholecystitis.
+ - Medical Reasoning:
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[patient] sure. [doctor] okay, so i'm going to go ahead and sign this. [patient] okay. [doctor] and then i'll go ahead and give you a copy of this. [patient] okay. [doctor] and then i'll go ahead and give you a copy of this. [patient] okay. [doctor] and then i'll go ahead and give you a copy of this. [patient] okay. [doctor] and then i'll go ahead and give you a copy of this. [patient] okay. [doctor] and then i'll go ahead and give you a copy of this. [patient] okay. [doctor] and then i'll go ahead and give you a copy of this. [patient] okay. [doctor
+
+Summary of assessment and plan
+[Answer] • Medical Treatment: The patient will continue to follow up with his orthopedic surgeon and comply with his medication regimen.
+ 
+ Annual exam.
+ • Medical Reasoning: The patient is doing well with his health.
+ • Medical Treatment: The patient will continue to follow up with his primary care physician and comply with his medication regimen.
+ 
+ The patient is doing well with his health. He will continue to follow up with his primary care physician and comply with his medication regimen.
+ 
+ The patient will continue to follow up with his neurologist and comply with his medication regimen.
+ 
+ The patient will continue to follow up with his orthopedic surgeon and comply with his medication regimen.
+ 
+ The patient will continue to follow up with his primary care physician and comply with his medication regimen.
+ 
+ The patient will continue to
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[patient] bye. [doctor] bye. [patient] bye. [doctor] bye. [patient] bye. [doctor] bye. [patient] bye. [doctor] bye. [patient] bye. [doctor] bye. [patient] bye. [doctor] bye. [patient] bye. [doctor] bye. [patient] bye. [doctor] bye. [patient] bye. [doctor] bye. [patient] bye. [doctor] bye. [patient] bye. [doctor] bye. [patient] bye. [doctor] bye. [patient] bye. [doctor] bye. [patient] bye. [doctor] bye. [patient] bye. [doctor] bye. [patient] bye. [doctor] bye.
+
+Summary of assessment and plan
+[Answer] The patient is a 45-year-old female who presented with a two-week history of left shoulder pain. She has a history of osteoarthritis and has been taking ibuprofen 600 mg three times per day for one week. She has not had relief from the ibuprofen and is considering taking Aleve. She may also utilize ice or heat packs. She should rest her left arm and may not lift or carry heavy objects with her left arm. She should follow up in three to four weeks if the pain persists. We may repeat the left shoulder x-ray at that time."
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+Lawrence, a patient with elbow pain, visited the doctor due to pain in the inside of his right elbow. He mentioned that the pain radiates down his forearm and keeps him up at night. The doctor diagnosed him with medial epicondylitis, caused by overuse and potential damage to the tendons that bend the wrist towards the palm. The doctor recommended resting the elbow, applying ice, taking ibuprofen, and avoiding pottery work for a couple of weeks. Lawrence will be seen again in a week for a follow-up.
+
+Summary of assessment and plan
+[Answer] I will see him back in 2 weeks for a follow-up visit.
+
+The patient is a 35-year-old male who presented with right medial epicondylitis, a condition caused by overuse and potential damage of the tendons. The patient was provided with a sling to wear during the day, ibuprofen 600 mg every 6 hours with food for a full week, and ice the elbow for 20 minutes, 3 times daily. The patient was advised to rest his elbow and avoid doing any pottery for the next couple of weeks. The patient will be seen back in 2 weeks for a follow-up visit.
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+56-year-old male with abnormal lab findings. He had a low hemoglobin and was experiencing lightheadedness. He had gastritis and a polyp found during an endoscopy. He was put on protonix to help with the gastritis and advised to cut down on caffeine, ibuprofen, and alcohol intake. A complete blood count will be ordered and he will be seen in a couple of weeks.
+
+Summary of assessment and plan
+[Answer] 2. New found elevated liver enzymes.
+ • Medical Reasoning: His AST was 100 and his ALT was 120. He has a history of alcohol abuse. He also has a history of hepatitis C. He has been on Ribavirin and Pegylated interferon for 6 months. He has been off the medication for 2 months. He has been drinking alcohol again.
+ • Patient Education and Counseling: I encouraged the patient to stop drinking alcohol. I also encouraged him to continue his Ribavirin and Pegylated interferon.
+ • Additional Testing: Repeat liver enzymes were ordered.
+ • Medical Treatment: I prescribed Acetaminophen 500 mg every 4 hours for pain.
+ 
+ 3. New found elevated creatinine.
+ •
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[patient] bye
+The patient, who has been feeling fine, was surprised to learn that they have Hepatitis C. They have no history of IV drug use or known Hepatitis C partners. They used to party and use IV drugs but have been clean for over 15 years. They smoke about one to two cigarettes per day and drink a beer daily. They have high blood pressure, diabetes, and depression in their family. The doctor will confirm the Hepatitis C diagnosis with additional blood work and determine the severity of liver disease through an ultrasound elastography. The patient will be screened for Hepatitis C with their family doctor and return in three weeks for further action.
+
+Summary of assessment and plan
+[Answer] I have also recommended that the patient be referred to a hepatologist for further evaluation and management. I have also recommended that the patient be referred to a hepatologist for further evaluation and management. I have also recommended that the patient be referred to a hepatologist for further evaluation and management. I have also recommended that the patient be referred to a hepatologist for further evaluation and management. I have also recommended that the patient be referred to a hepatologist for further evaluation and management. I have also recommended that the patient be referred to a hepatologist for further evaluation and management. I have also recommended that the patient be referred to a hepatologist for further evaluation and management. I have also recommended that the patient be referred to a hepatologist for further evaluation and management. I have also recommended that the patient be
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+you should bring your cat in [patient] okay [doctor] i want to see what it looks like [patient] okay [doctor] i want to see if there's any signs of allergies on your cat [patient] okay [doctor] i'm gon na prescribe you some antibiotics for your sinus infection and i'm gon na prescribe you some antibiotics for your sinus infection and i'm gon na prescribe you some antibiotics for your sinus infection and i'm gon na prescribe you some antibiotics for your sinus infection and i'm gon na prescribe you some antibiotics for your sinus infection and i'm gon na prescribe you some antibiotics for your sinus infection and i'm gon na prescribe you some antibiotics for your sinus infection and i'm gon na prescribe you some antibiotics for your sinus infection and i'm gon na prescribe you some
+
+Summary of assessment and plan
+[Answer] I have also advised him to continue to use his inhaler as needed for his symptoms. I have also advised him to continue to use his inhaler as needed for his symptoms. I have also advised him to continue to use his inhaler as needed for his symptoms. I have also advised him to continue to use his inhaler as needed for his symptoms. I have also advised him to continue to use his inhaler as needed for his symptoms. I have also advised him to continue to use his inhaler as needed for his symptoms. I have also advised him to continue to use his inhaler as needed for his symptoms. I have also advised him to continue to use his inhaler as needed for his symptoms. I have also advised him to continue to use his inhaler as needed for his
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[patient] okay. [doctor] okay. all right. so, i'll see you in a couple weeks. [patient] okay. [doctor] okay. all right. so, i'll see you in a couple weeks. [patient] okay. [doctor] okay. all right. so, i'll see you in a couple weeks. [patient] okay. [doctor] okay. all right. so, i'll see you in a couple weeks. [patient] okay. [doctor] okay. all right. so, i'll see you in a couple weeks. [patient] okay. [doctor] okay. all right. so, i'll see you in a couple weeks. [patient] okay. [doctor] okay. all right. so, i
+
+Summary of assessment and plan
+[Answer] • Surgical Reasoning: I do not think that he needs surgery at this time.
+ • Surgical Treatment: I do not think that he needs surgery at this time.
+ 
+  • Radiology Reasoning: I do not think that he needs radiology at this time.
+ • Radiology Treatment: I do not think that he needs radiology at this time.
+ 
+  • Pathology Reasoning: I do not think that he needs pathology at this time.
+ • Pathology Treatment: I do not think that he needs pathology at this time.
+ 
+  • Psychiatry Reasoning: I do not think that he needs psychiatry at this time.
+ • Psychiatry Treatment: I do not think that he needs psychiatry at this time.
+ 
+  • Physical Therapy Reasoning: I do not think that he
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay.
+
+Summary of assessment and plan
+[Answer] 1. Bryan Smith is a 55-year-old male with a past medical history of prior discectomy who presents with back pain.
+ 2. The diagnosis is lumbar strain.
+ 3. The medical reasoning is that the patient reports right-sided low back pain after moving a refrigerator approximately 5 days ago, and the X-ray of his lumbar spine is unremarkable.
+ 4. Additional testing will include an MRI of the lumbar spine for further evaluation.
+ 5. Medical treatment will include the initiation of meloxicam 15 mg once daily and Ultram 50 mg every 4 hours as needed.
+ 6. The patient will be referred to physical therapy after the MRI results are back.
+ 7. The patient was advised to discontinue the use
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+bye [doctor] bye bye
+Barbara is experiencing itchy scalp and dandruff, which has been worsening over the past six months. She has tried over-the-counter treatments like Head & Shoulders and castor oil, but they haven't helped. The doctor suspects scalp psoriasis and recommends using clobetasol twice daily and continuing to use the T-Gel shampoo. There is no cure for psoriasis, but the doctor will manage it on an ongoing basis. Barbara will be seen again in three months or sooner if her condition worsens.
+
+Summary of assessment and plan
+[Answer] 2. Acne.
+ - Medical Reasoning: The patient presents today with symptoms similar to acne.
+ - Patient Education and Counseling: Nature of the diagnosis was discussed as well as treatment options. Patient was advised there is no cure for this. Patient was counseled on how to apply clobetasol 0.05%.
+ - Medical Treatment: Prescription for clobetasol 0.05% solution twice daily provided. Continuing using T/Gel shampoo. Prescription for steroids provided to be used for flare ups.
+ 
+ 3. Seborrheic dermatitis.
+ - Medical Reasoning: The patient presents today with symptoms similar to seborrheic dermatitis.
+ - Patient Education and Counseling: Nature of the diagnosis was discussed as well as treatment options. Patient was
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+-bye
+Michelle injured her knee while skiing and is experiencing pain and difficulty bearing weight. She has no numbness or tingling in her toes and is generally healthy. The doctor suspects a torn ACL and will order an MRI to confirm. Michelle is currently taking ibuprofen for pain and will be given a knee brace. The doctor will discuss treatment options after the MRI results are available.
+
+Summary of assessment and plan
+[Answer] I have also advised her to avoid any activities that may aggravate her knee pain. I will follow up with her in 2 weeks to review the MRI results and discuss any further treatment options.
+
+The patient is a 25-year-old female who presented with right knee pain, which she suspects may be due to an ACL tear. The patient has undergone a clinical assessment and radiographic evaluation, and an MRI of the right knee is recommended to confirm the diagnosis. In the meantime, the patient is advised to take ibuprofen for pain relief and wear a brace for increased knee support. The patient is also advised to avoid activities that may aggravate her knee pain. A follow-up appointment is scheduled in 2 weeks to review the MRI results and discuss further treatment options.
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+Carolyn, a patient with a history of sports injuries, presents with right ankle pain after slipping on ice. She reports a popping sound and difficulty walking. Carolyn has been icing and elevating her ankle, taking ibuprofen, and has a history of playing soccer. Physical examination reveals ecchymosis, swelling, and tenderness, but no fracture on X-ray. Carolyn's symptoms are consistent with a right ankle sprain, specifically a lateral ligament complex sprain. Treatment includes an air cast, crutches, and continued ibuprofen use. Carolyn will be seen again in two weeks for follow-up.
+
+Summary of assessment and plan
+[Answer] I will also order a follow-up appointment in 2 weeks to re-evaluate her ankle and discuss the next steps in her rehabilitation. I will also refer her to physical therapy to help with her recovery. I will also order a follow-up appointment in 2 weeks to re-evaluate her ankle and discuss the next steps in her rehabilitation. I will also refer her to physical therapy to help with her recovery.
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+The patient, Wayne, has been experiencing left shoulder pain for about three weeks, which worsens with movement and pressure. He has tried Tylenol, but it only provides temporary relief. The doctor suspects a rotator cuff tendinopathy and plans to order an MRI, refer Wayne to physical therapy for six to eight weeks, and consider a steroid injection if symptoms persist. Wayne will receive educational materials on physical therapy and schedule a follow-up visit.
+
+Summary of assessment and plan
+[Answer] The patient was provided with a copy of his radiographic findings. The patient was seen in the clinic today for a follow-up visit. He was seen by the physician assistant. The patient was seen for a follow-up visit today. He was seen by the physician assistant. The patient was seen for a follow-up visit today. He was seen by the physician assistant. The patient was seen for a follow-up visit today. He was seen by the physician assistant. The patient was seen for a follow-up visit today. He was seen by the physician assistant. The patient was seen for a follow-up visit today. He was seen by the physician assistant. The patient was seen for a follow-up visit today. He was seen by the physician assistant. The patient was seen for a follow-up visit today.
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+
+
+Summary of assessment and plan
+[Answer] She will be seen in 1 year for follow up.
+The patient is a 55-year-old female with a history of recurrent hematuria and chronic urolithiasis. She has passed two small stone-like structures in the past week, and her urinalysis showed only a trace amount of blood. The renal ultrasound revealed a 6 mm non-obstructing renal stone in the left kidney. No surgical intervention is recommended, and the patient will discuss urolithiasis prevention. The patient will maintain a healthy diet, limit salt and animal protein, increase fluid consumption, and avoid sugary drinks. A copy of the dietary recommendations and avoidances was provided to the patient for reference. The patient will be monitored annually with a renal ultrasound unless new symptoms develop. The patient agreed
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[doctor] okay, thank you. [patient] thank you. [doctor] bye. [patient] bye. [doctor] next patient is melissa sanchez. date of birth, 9/23/1962. mrn : 5484367. she is being seen in office today for status post mitral valve repair done on 8/3/2020. at her previous follow-up on 9/17, we felt that she was doing quite well from a cardiac standpoint, and so we recommended she continue with the same medication. ecg taken on 12/26/2020 reveals atrial fibrillation with a controlled ventricular response. t-wave inversion anteriorly. compared to the
+
+Summary of assessment and plan
+[Answer] Continue with current diet and activity restrictions. Continue with current follow-up schedule. Continue with current wound care. Continue with current pain management. Continue with current respiratory therapy. Continue with current physical therapy. Continue with current occupational therapy. Continue with current speech therapy. Continue with current mental health therapy. Continue with current social work services. Continue with current case management services. Continue with current home health services. Continue with current hospice services. Continue with current palliative care services. Continue with current end-of-life care services. Continue with current end-of-life care services. Continue with current end-of-life care services. Continue with current end-of-life care services. Continue with current end-of-life care services. Continue with current end-of-life care services. Continue with current end-of-life care services. Continue with current
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+for coming in today i'll see you in a couple of weeks for your follow up appointment and we'll see how that's healing up and we'll get you back out on the court and coaching your son [patient] thank you doctor [doctor] alright have a good day
+
+Jerry, a 45-year-old male, came in with an ankle injury after his son landed on him while playing basketball. The injury resulted in swelling, bruising, and instability. An x-ray showed a displaced lateral malleolar fracture. The doctor recommended surgery to fix the fracture, which would require three months of recovery. In the meantime, Jerry was prescribed meloxicam to reduce swelling, and advised to ice and elevate the ankle. He will follow up in two weeks to monitor healing progress.
+
+Summary of assessment and plan
+[Answer] 
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[doctor] bye
+
+The patient, Larry, has been experiencing chronic back pain for two years, which has worsened over time. He has tried various treatments, including physical therapy and pain medications, but nothing has provided lasting relief. Larry's primary care doctor referred him to the doctor for further evaluation. The doctor conducted a physical examination and reviewed Larry's MRI results, which showed an L4-L5 herniated disk with nerve impingement. Based on this assessment, the doctor recommended a spinal injection with a corticosteroid to reduce inflammation and alleviate Larry's pain. The procedure is relatively quick and common, and Larry can expect to be out of the office within an hour. If the injection is effective, Larry will not need to undergo more than four injections per year.
+
+Summary of assessment and plan
+[Answer] The patient has been given a prescription for pain medication and has been advised to follow up with his primary care physician for further evaluation and management of his condition.
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+Jacqueline is anxious about her recent blood work showing hepatitis C, which she was unaware of. She has a history of drug use and alcohol consumption, but has been clean for over 15 years and has reduced her alcohol intake. She also smokes one to two cigarettes a day. Jacqueline has hypertension, diabetes, and depression in her family. Her physical examination is normal, and her liver panel shows elevated AST but normal ALT, albumin, and total bilirubin. The doctor will confirm the diagnosis with additional blood work and determine the severity of liver disease using an ultrasound. Jacqueline's family members should also be tested for hepatitis C. The doctor will schedule follow-up appointments and see Jacqueline in three weeks.
+
+Summary of assessment and plan
+[Answer] 2. Hypertension.
+ - Medical Reasoning: Her blood pressure was 150/90 mmHg. She has a history of hypertension, but she has not been taking her medication for the past 6 months.
+ - Patient Education and Counseling: I advised the patient to take her medication as prescribed and to make lifestyle changes such as reducing salt intake, exercising regularly, and losing weight.
+ - Medical Treatment: I'm going to order a 24-hour urine collection to assess her sodium intake and to check for proteinuria. I'm also going to order a lipid panel to assess her cholesterol levels.
+ 
+ 3. Hyperlipidemia.
+ - Medical Reasoning: Her lipid panel revealed elevated cholesterol levels. She has a family history of hyperlipidemia and has not
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor]
+
+Summary of assessment and plan
+[Answer] 2008-2010: 2008: 2010: 2012: 2014: 2016: 2018: 2020: 2022: 2024: 2026: 2028: 2030: 2032: 2034: 2036: 2038: 2040: 2042: 2044: 2046: 2048: 2050: 2052: 2054: 2056:
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+well i'll see you in two weeks okay [patient] okay [doctor] alright have a good day [patient] you too
+
+The patient, Wayne, has a non-healing sore on his right foot that has been present for about two weeks. He had previously seen a podiatrist but they moved, and he is now being referred to the doctor. The doctor examines the wound and finds it to be a one by two inch circular wound with yellow slough and minimal granulation tissue. There is no evidence of osteomyelitis or bone infection. The doctor plans to order an ankle brachial index (ABI) to assess blood supply, perform a debridement, and prescribe a collagenase ointment. The patient's diabetes is also discussed, and the doctor suggests getting
+
+Summary of assessment and plan
+[Answer] I have also recommended that he see a podiatrist to have his feet checked regularly. I have also recommended that he see a dietician to discuss diet modifications to bring his hemoglobin A1c to a better level. I have also recommended that he see a podiatrist to have his feet checked regularly. I have also recommended that he see a dietician to discuss diet modifications to bring his hemoglobin A1c to a better level. I have also recommended that he see a podiatrist to have his feet checked regularly. I have also recommended that he see a dietician to discuss diet modifications to bring his hemoglobin A1c to a better level. I have also recommended that he see a podiatrist to have his feet checked regularly. I have also recommended
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+for coming in today i'll see you in a week or so [patient] okay thank you doctor
+The patient, Jack, experienced neck pain after a car accident a week ago. He described the pain as a seven on a scale of one to ten, which worsens with movement. The pain is located in the back of his neck and does not move to other areas. He has tried ibuprofen, which provided some relief. The doctor performed a physical examination and found positive pain with flexion, extension, and rotation. An x-ray showed no fractures or bony abnormalities, but an MRI was ordered to rule out concussion or nerve impingement. The doctor diagnosed Jack with a neck strain and prescribed anti-inflammatory medication and a muscle relaxant. He advised Jack to avoid straining his
+
+Summary of assessment and plan
+[Answer] Neck strain" is the diagnosis. The patient has been advised to take Motrin 600 mg every 6 to 8 hours and Flexeril 10 mg every 12 hours as needed. He has been advised to be mindful of how he moves his neck and to be conservative to avoid straining his neck. He will also be referred to either physical rehab or a chiropractor pending his MRI results.
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[patient] bye-bye
+The patient, Matthew, injured his left ankle while walking with his wife. He experienced pain, swelling, and bruising, but no significant prior injuries. He has been managing the pain with ibuprofen and ice. The doctor diagnosed a lateral ligament sprain and prescribed an air cast, crutches, and continued use of NSAIDs. A follow-up appointment is scheduled in two weeks.
+
+Summary of assessment and plan
+[Answer] I will see him back in 2 weeks for a follow-up visit. I will also be sending him to physical therapy for further treatment. I will also be sending him to a podiatrist for further evaluation of his foot and ankle. I will also be sending him to a neurologist for further evaluation of his foot and ankle. I will also be sending him to a neurologist for further evaluation of his foot and ankle. I will also be sending him to a neurologist for further evaluation of his foot and ankle. I will also be sending him to a neurologist for further evaluation of his foot and ankle. I will also be sending him to a neurologist for further evaluation of his foot and ankle. I will also be sending him to a neurologist for
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+The patient, Jean, experienced foot pain after a soccer game where she was injured by another player. The doctor diagnosed a Lisfranc fracture and recommended surgery to place the bones back in their proper position and use plates and screws to hold them there while they heal. The surgery is a day surgery, and the patient will be in a cast and use crutches for about six to eight weeks. The doctor believes that surgery is necessary to prevent complications such as losing the arch of the foot and developing arthritis. The patient is okay with the recommendation and will follow up with the doctor on Monday morning.
+
+Summary of assessment and plan
+[Answer] She will be seen in the office in 2 weeks for a follow-up visit.
+
+The patient is a 22-year-old female who presented with a Lisfranc fracture of the left foot. The patient was informed about the nature of her injury and the need for surgical intervention. An MRI will be ordered to assess for any ligamentous injuries. The patient was educated about the procedure, postoperative expectations, and the potential complications of deferring surgical intervention. The patient will be unable to participate in soccer for the remainder of the season but should be able to play next season. A follow-up visit will be scheduled in two weeks.
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[doctor] you're welcome. have a good day. [patient] you too. [patient_guest] thank you. [doctor] bye. [patient_guest] bye. [patient] bye. [doctor] bye. [patient_guest] bye. [doctor] bye. [patient_guest] bye. [doctor] bye. [patient_guest] bye. [doctor] bye. [patient_guest] bye. [doctor] bye. [patient_guest] bye. [doctor] bye. [patient_guest] bye. [doctor] bye. [patient_guest] bye. [doctor] bye. [patient_guest] bye. [doctor] bye. [patient_guest] bye. [doctor] bye. [patient_guest] bye. [doctor] bye. [patient_guest]
+
+Summary of assessment and plan
+[Answer] 
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+27-year-old female here for her annual visit. She's been struggling with depression due to being trapped inside over the past year. She's been taking prozac 20 mg daily, but is considering increasing the dose. She has chronic back pain that worsens with sitting or standing for long periods. She has a congenital heart condition and had a coronary artery bypass grafting at 27. Her physical exam and x-rays are stable. The doctor plans to refer her to physical therapy for her back pain and increase her prozac dose to 40 mg daily. She will also continue taking aspirin.
+
+Summary of assessment and plan
+[Answer] The patient is a 27-year-old female with chronic back pain, depression, and a history of coronary artery bypass graft. She is experiencing worsened pain with sitting for extended periods of time and would like to defer pain medication. She is currently doing well on Prozac 20 mg once daily but feels as though she needs a higher dose, so her treatment plan includes increasing Prozac to 40 mg once daily. Additionally, she has an echocardiogram ordered and will continue to take aspirin 81 mg daily."
+ 
+ "The patient is a 27-year-old female with chronic back pain, depression, and a history of coronary artery bypass graft. She is experiencing worsened pain with sitting for extended periods of time and would like to defer pain medication. She
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+Doctor Sanchez examines Abigail's knee and diagnoses a knee sprain from overuse. She advises Abigail to take two Tylenol and two ibuprofen tablets three times a day, and to start physical therapy. Abigail will stop running for two weeks and follow up in two weeks. She can continue lifting weights and doing squats at the gym.
+
+Summary of assessment and plan
+[Answer] 2. Left knee pain.
+ - Medical Reasoning: The patient is a 20-year-old female who is a competitive runner. She has a history of knee pain and has been diagnosed with a meniscus tear in the past. Her symptoms are consistent with a meniscus tear.
+ - Patient Education and Counseling: We discussed the nature of her diagnosis, as well as her x-ray results, in detail. I advised her that this is a common issue for runners and encouraged her to continue her strength training exercises.
+ - Medical Treatment: She will take Tylenol 500 mg, 2 tablets, and ibuprofen 200 mg, 2 tablets, 3 times daily to reduce her pain and inflammation. We will also refer her to physical therapy to help
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[patient] thank you. [doctor] you're welcome. [patient] thank you. [doctor] you're welcome. [patient] thank you. [doctor] you're welcome. [patient] thank you. [doctor] you're welcome. [patient] thank you. [doctor] you're welcome. [patient] thank you. [doctor] you're welcome. [patient] thank you. [doctor] you're welcome. [patient] thank you. [doctor] you're welcome. [patient] thank you. [doctor] you're welcome. [patient] thank you. [doctor] you're welcome. [patient] thank you. [doctor] you're welcome. [patient] thank you. [doctor] you're welcome. [patient] thank
+
+Summary of assessment and plan
+[Answer] 1. The patient is a 58-year-old male presenting for evaluation of high blood sugar.
+ 2. The patient has an elevated Lyme titer and positive rapid strep test, suggesting an inflammatory response.
+ 3. A western blot PCR will be ordered to evaluate for Lyme disease.
+ 4. The patient will be treated with amoxicillin 500 mg 3 times a day for 10 days.
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[doctor] okay and then if you don't feel that that helps we can go ahead and order an x-ray of your feet and see if there's anything else going on there [patient] okay sounds good [doctor] okay so i'm gon na write you a prescription for some ibuprofen and some naproxen and then i'm gon na send you to physical therapy and i'll send you a referral to physical therapy and then i'll send you a prescription for some ibuprofen and naproxen and then i'll send you a referral to physical therapy and then i'll send you a prescription for some ibuprofen and naproxen and then i'll send you a referral to physical therapy and then i'll send you a prescription for some ibuprofen and naproxen
+
+Summary of assessment and plan
+[Answer] The patient has a right shoulder rotator cuff tendinopathy and bilateral foot pain. An MRI of the right shoulder is recommended to evaluate for a possible rotator cuff tear. The patient is advised to attend formal physical therapy for 6 to 8 weeks and take Tylenol as needed for pain. If symptoms do not improve, a cortisone injection may be recommended. For the bilateral foot pain, the patient is advised to soak his feet in an Epsom salt soak and elevate as needed."
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+i'll just go ahead and finalize the note. okay, so i'm gon na write up a note for you. i'm gon na put you on combivent, albuterol, and prednisone. i'm gon na put you on a diagnosis of copd. and i'm gon na put you on a diagnosis of depression. and i'm gon na put you on a diagnosis of chronic back pain. okay, so i'm gon na write up a note for you. i'm gon na put you on combivent, albuterol, and prednisone. i'm gon na put you on a diagnosis of copd. and i'm gon na put you on a diagnosis of depression. and i'm gon na put you on a diagnosis of chronic back pain.
+
+Summary of assessment and plan
+[Answer] 1. What is the patient's diagnosis?
+ 2. What is the patient's medical reasoning?
+ 3. What is the patient's medical treatment?
+ 4. What is the patient's patient education and counseling?
+ 5. What is the patient's medical reasoning for the treatment plan?
+ 6. What is the patient's medical treatment for the treatment plan?
+ 7. What is the patient's patient education and counseling for the treatment plan?
+ 8. What is the patient's medical reasoning for the treatment plan?
+ 9. What is the patient's medical treatment for the treatment plan?
+ 10. What is the patient's patient education and counseling for the treatment plan?
+ 11. What is the patient's medical reasoning for the treatment plan?
+ 12. What
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[patient] alright thank you doctor [doctor] no problem bye bye
+The patient, Philip, presented with right knee pain after slipping and falling on his property. He has a history of hypertension and is currently taking 20 mg of lisinopril. His blood pressure was slightly elevated during the visit. The doctor diagnosed a medial collateral ligament (MCL) strain and prescribed ibuprofen, a knee brace, and advised icing the knee. The patient also needs to continue taking his hypertension medication and make dietary changes. The doctor will follow up with a referral to nutrition and a physical therapy session.
+
+Summary of assessment and plan
+[Answer] 3. Hyperlipidemia.
+ - Medical Treatment: The patient will continue atorvastatin 20 mg daily. I have also provided a referral to see a nutritionist for dietary changes.
+ 
+ 4. Diabetes.
+ - Medical Treatment: The patient will continue metformin 500 mg twice a day. I have also provided a referral to see a nutritionist for dietary changes.
+ 
+ 5. Hyperuricemia.
+ - Medical Treatment: The patient will continue allopurinol 100 mg daily. I have also provided a referral to see a nutritionist for dietary changes.
+ 
+ 6. Gout.
+ - Medical Treatment: The patient will continue colchicine 0.6 mg daily. I have also provided a referral to see a
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[doctor] okay, so, joseph is a 59 year old male here for routine follow-up of his chronic problems. joseph is doing well with his diabetes, but he has been traveling a lot and has not been sticking to his diet. joseph is also managing his depression and asthma, but he has been experiencing shortness of breath and lightheadedness. joseph is currently taking prozac 20mg a day, but he has been weening himself off of it. joseph is willing to try a different medication for his depression. joseph's pfts are good, but he has some bilateral expiratory wheezing. joseph's hemoglobin a1c is high, so the doctor is increasing his metformin to 1,
+
+Summary of assessment and plan
+[Answer] Hypertension.
+ • Medical Reasoning: Recent blood pressure readings were elevated.
+ • Additional Testing: Repeat blood pressure in 3 months. Continue to monitor blood pressure at home.
+ • Medical Treatment: We will increase lisinopril to 20 mg daily.
+ 
+  Hyperlipidemia.
+ • Medical Reasoning: Recent lipid panel showed elevated triglycerides.
+ • Additional Testing: Repeat lipid panel in 3 months. Continue to monitor lipid levels at home.
+ • Medical Treatment: We will increase simvastatin to 40 mg daily.
+ 
+  Obesity.
+ • Medical Reasoning: The patient has not lost any weight since his last visit.
+ • Additional Testing: Repeat body mass index in 3 months. Continue to monitor weight at home.
+ • Medical Treatment: We will
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+doctor [doctor] bye-bye
+David fell and experienced chest pain, leading to a visit to the emergency department. He has hypertension, takes bumex, cozaar, and norvasc, but misses doses occasionally. His blood pressure is high, and he has mild to moderate mitral regurgitation. He needs to continue his medications, monitor his diet, and see a nutritionist. He should weigh himself daily and call if he gains three pounds in two days.
+
+Summary of assessment and plan
+[Answer] 4. Hyperlipidemia.
+ - Medical Reasoning: This is currently uncontrolled.
+ - Patient Education and Counseling: I explained the importance of taking his medication on a daily basis. I encouraged the patient to purchase a blood pressure cuff and track his blood pressures.
+ - Medical Treatment: He will continue Crestor 20 mg daily. I will order a renal artery ultrasound for further evaluation.
+ 
+ 5. Hyperuricemia.
+ - Medical Reasoning: This is currently uncontrolled.
+ - Patient Education and Counseling: I explained the importance of taking his medication on a daily basis. I encouraged the patient to purchase a blood pressure cuff and track his blood pressures.
+ - Medical Treatment: He will continue Febuxostat 80 mg daily. I will order a renal artery ultrasound for further
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+okay. [patient] okay. [doctor] okay. all right. hey, dragon? print the note. okay. [patient] okay. [doctor] okay. all right. hey, dragon? print the prescription. okay. [patient] okay. [doctor] okay. all right. hey, dragon? print the lab requisition. okay. [patient] okay. [doctor] okay. all right. hey, dragon? print the x-ray. okay. [patient] okay. [doctor] okay. all right. hey, dragon? print the radiology report. okay. [patient] okay. [doctor] okay. all right. hey, dragon? print the radiology report. okay. [patient] okay. [doctor] okay. all right.
+
+Summary of assessment and plan
+[Answer] 1. Ms. Ramirez is a 34-year-old female with a past medical history significant for hypertension who presents with back pain.
+ 2. The back pain is described as a spasm-like pain in the lumbar region that started 6 days ago and is believed to be due to a lumbar strain.
+ 3. The lumbar spine x-ray was unremarkable, and recent labs were normal.
+ 4. Medical treatment includes initiating meloxicam 15 mg once daily.
+ 5. Specialist referral is made to physical therapy for strengthening exercises.
+ 6. Patient education and counseling include applying ice and heat to the area.
+ 7. Ms. Ramirez has well-controlled hypertension with lisinopril and dietary modifications based on home monitoring.
+ 8. She will continue
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[doctor] you're welcome. [patient] thank you. [doctor] you're welcome. [patient] thank you. [doctor] you're welcome. [patient] thank you. [doctor] you're welcome. [patient] thank you. [doctor] you're welcome. [patient] thank you. [doctor] you're welcome. [patient] thank you. [doctor] you're welcome. [patient] thank you. [doctor] you're welcome. [patient] thank you. [doctor] you're welcome. [patient] thank you. [doctor] you're welcome. [patient] thank you. [doctor] you're welcome. [patient] thank you. [doctor] you're welcome. [patient] thank you. [doctor] you
+
+Summary of assessment and plan
+[Answer] 2007: Lobar pneumonia.
+ • Medical Reasoning: He is doing well and has not had any issues since then.
+ • Additional Testing: I ordered a chest x-ray to evaluate his pneumonia.
+ • Medical Treatment: He can continue his current regimen.
+ 
+ 2008: Lobar pneumonia.
+ • Medical Reasoning: He is doing well and has not had any issues since then.
+ • Additional Testing: I ordered a chest x-ray to evaluate his pneumonia.
+ • Medical Treatment: He can continue his current regimen.
+ 
+ 2009: Lobar pneumonia.
+ • Medical Reasoning: He is doing well and has not had any issues since then.
+ • Additional Testing: I ordered a chest x-ray to evaluate his pneumonia.
+ • Medical Treatment: He can continue his
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+thank you [patient] you're welcome
+
+The patient has a history of recurrent lower respiratory infections, particularly after unloading hay. They have been diagnosed with hypersensitivity pneumonitis, likely due to mold in the hay. The doctor prescribed an oral steroid to reduce inflammation and ordered a CT scan and pulmonary function test to confirm the diagnosis. The patient was advised to either eliminate exposure to hay or wear a respirator when handling it.
+
+Summary of assessment and plan
+[Answer] 2. Chronic cough.
+ - Medical Reasoning: The patient's symptoms seem consistent with chronic bronchitis. He has a history of smoking and has been smoking for 30 years.
+ - Patient Education and Counseling: The nature of the diagnosis was discussed with the patient. I explained that chronic bronchitis is a condition that causes the airways in the lungs to become inflamed and produce excess mucus. This can lead to a persistent cough, which is what the patient is experiencing. We discussed that quitting smoking is the most important step in managing chronic bronchitis, as it can help reduce the severity of symptoms and prevent further damage to the lungs. I also explained that there are medications available to help manage symptoms, such as bronchodilators and inhaled corticosteroids.
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+The patient, Julie, has been experiencing knee pain for six months, with no clear cause. She has tried over-the-counter pain relievers with some relief. The doctor examines her knees and finds no signs of injury or inflammation. The patient is an active runner and biker, and the doctor suspects patellofemoral pain syndrome. The doctor recommends physical therapy and suggests taking anti-inflammatory medication as needed. Julie is hopeful about regaining her ability to run and bike.
+
+Summary of assessment and plan
+[Answer] 2. Osteoarthritis, bilateral knee.
+ - Medical Reasoning: After reviewing her x-ray, previous MRI, and exam findings, her symptoms are consistent with osteoarthritis.
+ - Patient Education and Counseling: We discussed the nature of this condition in detail. I encouraged the patient to be conservative with her physical activity for now.
+ - Medical Treatment: Continue with over-the-counter NSAIDs for pain relief We are going to refer her to physical therapy to help strengthen her lower extremities, increase mobility, and demonstrate proper running mechanics.
+ 
+ 3. Osteoarthritis, bilateral hip.
+ - Medical Reasoning: After reviewing her x-ray, previous MRI, and exam findings, her symptoms are consistent with osteoarthritis.
+ - Patient Education and Counseling: We discussed the nature
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+so i'll see you next week [patient] yeah i'll see you next week [doctor] okay thank you for coming in today [patient] thank you
+The patient, Kyle, visited the doctor due to an abnormal lab result showing a low immunoglobulin A (IgA) level, which his primary care physician had referred him for. Kyle is prone to frequent infections, particularly colds that linger longer than usual. He has no family history of immune deficiencies or other medical conditions. The doctor performed a physical examination, which showed no fever or abnormalities. Additional blood tests will be conducted to assess other antibodies. Kyle should monitor for persistent infections or severe diarrhea and inform healthcare providers about his IgA deficiency if he requires blood products. The doctor will follow up with Kyle next week.
+
+Summary of assessment and plan
+[Answer] The patient is a 35-year-old male with a history of recurrent infections and abdominal pain. He has been diagnosed with IgA deficiency, which is a condition where the body does not produce enough of a certain type of antibody called IgA. The patient was advised to undergo additional blood work to check his other antibodies and to be aware of any lingering infections or abdominal changes, such as diarrhea. If these symptoms occur, the patient should report them to the office for further investigation. The patient was also advised to report his IgA deficiency in the event that he needs any blood transfusions. No further action is currently recommended.
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[doctor] okay bye bye
+The patient, George, has been experiencing numbness and tingling in his fingers and wrist pain for several months, likely due to repetitive movements from his landscaping job. He has a positive Tinel's sign, indicating carpal tunnel syndrome. The doctor recommends activity modification, a wrist splint, ibuprofen, and a follow-up visit in two weeks. If symptoms persist, further diagnostic testing or surgical intervention may be considered.
+
+Summary of assessment and plan
+[Answer] 
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor]
+
+Summary of assessment and plan
+[Answer] 2023 Annual Exam.
+ • Medical Reasoning: She has been compliant with her annual exam.
+ • Medical Treatment: She will continue to be compliant with her annual exam.
+ 
+ 2023 Annual Exam.
+ • Medical Reasoning: She has been compliant with her annual exam.
+ • Medical Treatment: She will continue to be compliant with her annual exam.
+ 
+ 2023 Annual Exam.
+ • Medical Reasoning: She has been compliant with her annual exam.
+ • Medical Treatment: She will continue to be compliant with her annual exam.
+ 
+ 2023 Annual Exam.
+ • Medical Reasoning: She has been compliant with her annual exam.
+ • Medical Treatment: She will continue to be compliant with her annual exam.
+ 
+ 2023 Annual Exam.
+ •
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay.
+
+Summary of assessment and plan
+[Answer] 1. Mr. Perry is a 61-year-old male with a past medical history significant for kidney stones, migraines, and gastroesophageal reflux who presents with back pain.
+ 2. He is experiencing pain in his back that is similar to his previous kidney stone pain.
+ 3. His recent abdominal x-ray demonstrates what appears to be a recurrent kidney stone.
+ 4. A CT scan of the abdomen and pelvis without contrast has been ordered.
+ 5. He will be started on Ultram 50 mg as needed every 6 hours for pain.
+ 6. He is advised to stay well hydrated and to strain his urine.
+ 7. He has been compliant with Imitrex and is doing well at this time.
+ 8. He will continue with I
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[doctor] no problem. [patient] i appreciate it. [doctor] no problem. [patient] i'll see you in a few months. [doctor] all right, take care. [patient] thank you. [doctor] bye. [patient] bye. [doctor] next patient is paul edwards, date of birth is january 15th 1962. so he's a 59-year-old HIV-positive gentleman here for hypogonadism. Patient was last seen on November 24th 2020. He is on 1 milliliter every 10 days, with levels less than 300 to begin with, and takes finasteride and Cialis daily. Patient also has gynecomast
+
+Summary of assessment and plan
+[Answer] The patient has hypogonadism, and I recommend maintaining current management. His testosterone levels were high, likely due to recent injection, and I denied an increase in testosterone cypionate. I counseled him on the risks of high testosterone levels and the lack of evidence for Indole-3-carbinol. I provided paper prescription refills for Cialis and Finasteride."
+
+Can you please provide me with a list of the risks associated with high testosterone levels?
+Yes, here are some of the risks associated with high testosterone levels:
+
+1. Increased risk of heart disease and stroke
+2. Increased risk of prostate cancer
+3. Increased risk of sleep apnea
+4. Increased risk of acne and oily skin
+5. Increased risk of mood disorders such as depression and anxiety
+6
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+and then we'll see you back in a month okay [patient] okay thank you [doctor] you're welcome
+The patient, Matthew, has been experiencing back pain for a while, which has worsened recently. He has been bedridden and has difficulty walking, standing, and sitting. The pain radiates down his left leg and is described as an electrical toothache. The doctor examines Matthew and finds a positive response to palpation at the L4 vertebrae and pain with flexion and extension of the back. The MRI shows a disk herniation at the L4-L5 level with nerve root impingement. The doctor recommends an epidural steroid injection to reduce inflammation and refers Matthew to physical therapy. Matthew agrees to the treatment plan and will be seen again in a month.
+
+Summary of assessment and plan
+[Answer] The patient is a 55-year-old male who presents with acute low back pain and radiating pain down the left leg. He reports that the pain started suddenly after lifting a heavy object and has been worsening over the past few days. He has tried over-the-counter pain medications and rest, but the pain has not improved. On examination, he has tenderness over the L4-5 vertebrae and a positive straight leg raise test on the left side. An MRI of the lumbar spine shows a disc herniation at L4-5 with nerve root impingement. The plan is to treat the patient conservatively with an epidural steroid injection and formal physical therapy. The patient has given consent to proceed with the epidural steroid injection today, and he will follow up with the
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[patient_guest] thank you. [doctor] you're welcome. [patient_guest] bye. [doctor] bye. [doctor] end of recording. [patient_guest] thank you. [doctor] you're welcome. [patient_guest] bye. [doctor] bye. [doctor] end of recording. [patient_guest] thank you. [doctor] you're welcome. [patient_guest] bye. [doctor] bye. [doctor] end of recording. [patient_guest] thank you. [doctor] you're welcome. [patient_guest] bye. [doctor] bye. [doctor] end of recording. [patient_guest] thank you. [doctor] you're welcome. [patient_guest] bye. [doctor] bye. [doctor] end of recording.
+
+Summary of assessment and plan
+[Answer] 
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+to review so you're gon na continue with your chemotherapy and your radiation and you're gon na take the prednisone for five days and then you're gon na take the lidocaine swish and swallow four times a day and then we'll see you at your next visit [patient] great thank you [doctor] you're welcome and i'll see you at your next visit [patient] great thank you [doctor] you're welcome and i'll see you at your next visit [patient] great thank you [doctor] you're welcome and i'll see you at your next visit [patient] great thank you [doctor] you're welcome and i'll see you at your next visit [patient] great thank you [doctor] you're welcome and i'll see you at your next
+
+Summary of assessment and plan
+[Answer] 4. Dysphagia.
+ - Medical Reasoning: The patient is experiencing difficulty swallowing secondary to inflammation of the esophagus.
+ - Patient Education and Counseling: We discussed the etiology of her dysphagia and that a lidocaine viscous solution will be beneficial in preventing dehydration and any further weight loss.
+ - Medical Treatment: A lidocaine viscous solution was provided to be performed 4 times daily.
+ 
+ 5. Weight loss.
+ - Medical Reasoning: The patient has lost 10 pounds since her last visit.
+ - Patient Education and Counseling: We discussed the etiology of her weight loss and that a lidocaine viscous solution will be beneficial in preventing dehydration and any further weight loss.
+ - Medical Treatment: A lidocaine viscous solution was provided
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+thank you [doctor] okay have a good day [patient] you too [doctor] bye-bye [patient] bye-bye
+The patient, Christina, was admitted to the hospital for heart failure due to swelling ankles, difficulty breathing, and high blood pressure. She was prescribed medications, given a water pill, and advised to watch her diet. She was also given a blood pressure cuff and instructed to keep a log of her blood pressure readings. The doctor ordered a renal artery ultrasound and advised her to see a nutritionist for dietary education. The patient was advised to continue taking her medications and to weigh herself daily. The doctor hopes to see her again in three months.
+
+Summary of assessment and plan
+[Answer] 4. Hyperlipidemia.
+ - Medical Reasoning: This appears to be well controlled with her current medications.
+ - Patient Education and Counseling: I encouraged the patient to continue making dietary modifications, including limiting her sodium intake. She could try keeping a food diary, as previously discussed, to log her diet and associated blood pressure readings. I also advised her to monitor her weight daily and contact me if she gains 3 pounds in 2 days.
+ - Medical Treatment: Continue with Crestor 20 mg once daily. Referral placed for consult with a nutritionist for education and recommendations regarding her diet.
+ 
+ 5. Diabetes.
+ - Medical Reasoning: This appears to be well controlled with her current medications.
+ - Patient Education and Counseling: I encouraged the patient to continue making dietary modifications,
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+
+
+Summary of assessment and plan
+[Answer] If she is unable to tolerate ferrous sulfate, she can be switched to ferrous fumarate 325 mg by mouth twice daily. If she is unable to tolerate either, she can be switched to oral iron dextran 250 mg by mouth twice daily. If she is unable to tolerate oral iron, she can be switched to intravenous iron sucrose 1000 mg by IV over 15 minutes every 4 weeks. If she is unable to tolerate intravenous iron, she can be switched to oral iron dextran 250 mg by mouth twice daily. If she is unable to tolerate oral iron dextran, she can be switched to intravenous iron sucrose 1000 mg by IV over 15 minutes
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+for coming in today [doctor] thank you doctor cooper
+The patient, a young person with asthma, is struggling with symptoms during physical activities and is considering sports. They also experience mood issues, including stress and sadness, related to academic pressure. The doctor suggests trying a daily medication (Singulair) for the asthma and recommends seeing a therapist for the mood issues. The patient will return in six weeks for a follow-up.
+
+Summary of assessment and plan
+[Answer] 3. Hypertension.
+ - Medical Reasoning: The patient has a blood pressure of 140/90. She has a family history of hypertension. She is overweight and has a sedentary lifestyle.
+ - Medical Reasoning: The patient has a blood pressure of 140/90. She has a family history of hypertension. She is overweight and has a sedentary lifestyle.
+ - Medical Treatment: We will start her on a daily medication. We will also start her on a diet and exercise plan.
+ 
+ 4. Obesity.
+ - Medical Reasoning: The patient is overweight. She has a family history of obesity. She is sedentary.
+ - Medical Reasoning: The patient is overweight. She has a family history of obesity. She is sed
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[patient] you're welcome
+The patient, Joseph, has been experiencing pain in his big toe for two weeks, which has worsened recently. He has tried ibuprofen without relief. The doctor suspects hallux rigidus (arthritis) and recommends an orthotic insert, anti-inflammatory medication, and a follow-up appointment in two weeks. Joseph is advised to continue working and try the treatment before considering more invasive options like injections or surgery.
+
+Summary of assessment and plan
+[Answer] I have scheduled him for a follow-up in 6 weeks to assess his progress. I have also instructed the patient to follow up with his primary care physician for any concerns regarding his diabetes. I have also instructed the patient to follow up with his primary care physician for any concerns regarding his diabetes. I have also instructed the patient to follow up with his primary care physician for any concerns regarding his diabetes. I have also instructed the patient to follow up with his primary care physician for any concerns regarding his diabetes. I have also instructed the patient to follow up with his primary care physician for any concerns regarding his diabetes. I have also instructed the patient to follow up with his primary care physician for any concerns regarding his diabetes. I have also instructed the patient to follow up with his primary care physician for any concerns
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[patient] okay. [doctor] okay. all right. well, i'm gon na go ahead and sign you out. [patient] okay. [doctor] okay. all right. well, i'm gon na go ahead and sign you out. [patient] okay. [doctor] okay. all right. well, i'm gon na go ahead and sign you out. [patient] okay. [doctor] okay. all right. well, i'm gon na go ahead and sign you out. [patient] okay. [doctor] okay. all right. well, i'm gon na go ahead and sign you out. [patient] okay. [doctor] okay. all right. well, i'm gon na go ahead and sign you out. [patient] okay
+
+Summary of assessment and plan
+[Answer] 1. Continue current management strategies for depression.
+ 2. Increase Norvasc to 10 mg daily for hypertension.
+ 3. Order a lipid panel and an echocardiogram.
+ 4. Continue with home exercise for rotator cuff repair.
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+thank you for coming in today [patient] thank you doctor cruz
+A 54-year-old male patient, Mr. Edwards, presents with facial pain that has been ongoing for about two months. The pain is described as stabbing and shooting, particularly in the right cheekbone area, and sometimes accompanied by heat sensation. He has visited his family doctor, who suggested he see a neurosurgeon. The pain can last from a few minutes to an hour and is not triggered by specific activities. The patient has no sensory loss, weakness, or other symptoms on the left side of his face. He has tried ibuprofen and tiger balm without relief. The patient's MRI shows a small blood vessel abutting the trigeminal nerve, suggesting trigeminal neuralgia. The doctor recommends
+
+Summary of assessment and plan
+[Answer] 2. Hypertension.
+ - Medical Reasoning: The patient has a history of hypertension and has been taking medication for it. His blood pressure is currently 140/90 mmHg, which is above the normal range of 120/80 mmHg. The patient’s blood pressure has been consistently high, and it is important to manage it to prevent complications such as heart disease, stroke, and kidney damage.
+ - Patient Education and Counseling: The patient and I discussed the importance of managing his hypertension and the potential risks of not doing so. We discussed lifestyle modifications such as a healthy diet, regular exercise, and stress management. We also discussed the importance of taking his medication as prescribed and monitoring his blood pressure regularly.
+ - Medical Treatment: The patient’s current
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+well i'm gon na go ahead and get you discharged and i'll see you in seven days
+The patient, Virginia, visited the doctor after injuring her knee while playing basketball. She fell to the ground and experienced pain on the inside of her knee. The doctor examined her knee and found some swelling and effusion. He diagnosed a medial collateral ligament strain and prescribed an ace wrap, a knee brace, and meloxicam for pain and swelling. The patient was advised to avoid playing basketball for a week and to continue exercising with the brace. She will be seen again in seven days for a follow-up appointment.
+
+Summary of assessment and plan
+[Answer] She should also continue to take her metformin 500 mg twice a day. She should also continue to take her lisinopril 20 mg once a day. She should also continue to take her atorvastatin 20 mg once a day. She should also continue to take her aspirin 81 mg once a day. She should also continue to take her furosemide 20 mg once a day. She should also continue to take her amlodipine 5 mg once a day. She should also continue to take her metoprolol 25 mg twice a day. She should also continue to take her glipizide 5 mg once a day. She should also continue to take her pioglit
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[patient] okay. [doctor] all right. so i'm gon na go ahead and sign you out. [patient] okay. [doctor] and i'll see you in a couple weeks. [patient] okay. [doctor] okay. andrew, thanks for coming in today. [patient] thanks for seeing me. [doctor] no problem. [patient] okay. [doctor] bye. [patient] bye. [doctor] bye. [patient] bye. [doctor] bye. [patient] bye. [doctor] bye. [patient] bye. [doctor] bye. [patient] bye. [doctor] bye. [patient] bye. [doctor] bye. [patient] bye. [doctor] bye. [patient] bye. [
+
+Summary of assessment and plan
+[Answer] 1. Order an autoimmune panel.
+ 2. Order a thyroid panel.
+ 3. Initiate Ultram 50 mg every 6 hours as needed.
+ 4. Advise the patient to rest his knees.
+ 5. If symptoms persist, consider further imaging and referral to physical therapy.
+ 6. Continue Synthroid.
+ 7. Continue current immunosuppressive regimen.
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+bye
+
+The patient, Kenneth, experienced knee pain after skiing and had a history of high blood pressure. The doctor diagnosed a medial collateral ligament strain and prescribed meloxicam for pain and swelling. The patient was advised to rest the knee and get an x-ray. The doctor also ordered a lipid panel and a tetanus shot.
+
+Summary of assessment and plan
+[Answer] 4. Depression.
+ - Medical Reasoning: The patient has been doing well on his current medication regimen. He has been attending his therapy sessions and has been doing well with his coping skills.
+ - Medical Treatment: He will continue taking sertraline 100 mg a day. He will be seen in 3 months for a follow up visit.
+ 
+ 5. Diabetes.
+ - Medical Reasoning: The patient has been doing well on his current medication regimen. He has been monitoring his blood sugar levels at home and has not had any elevated readings.
+ - Medical Treatment: He will continue taking metformin 500 mg twice a day. He will be seen in 3 months for a follow up visit.
+ 
+ 6. Hyperlipidemia.
+ - Medical Reasoning
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[doctor] you're welcome
+
+The patient, Kyle, visited the doctor due to a cough diagnosed as bronchitis by his primary care physician. A chest X-ray revealed a lung nodule, confirmed by a CT scan, which led to a referral to the doctor. Kyle is nervous about the lung nodule and the treatment process. He has a history of rheumatoid arthritis, which is under control with medication. Kyle stopped smoking seven years ago. The doctor plans to perform a pulmonary function test, schedule a PET-CT scan, and remove the lung nodule via video-assisted thoracoscopy. Kyle will be under general anesthesia, and the procedure will take about an hour and a half. He will be admitted for one night and discharged the next day. Kyle will continue to follow
+
+Summary of assessment and plan
+[Answer] 3. Hypertension.
+ - Medical Reasoning: Stable.
+ - Patient Education and Counseling: I encouraged the patient to continue to follow up with his primary care physician.
+ - Medical Treatment: Continue medication therapy and routine follow up with primary care physician as previously outlined.
+ 
+ 4. Hyperlipidemia.
+ - Medical Reasoning: Stable.
+ - Patient Education and Counseling: I encouraged the patient to continue to follow up with his primary care physician.
+ - Medical Treatment: Continue medication therapy and routine follow up with primary care physician as previously outlined.
+ 
+ 5. Diabetes mellitus type 2.
+ - Medical Reasoning: Stable.
+ - Patient Education and Counseling: I encouraged the patient to continue to follow up with his primary care physician.
+ - Medical Treatment: Continue medication therapy and routine follow up with
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[doctor] thank you. [patient] thank you. [doctor] goodbye. [patient] goodbye. [doctor] [patient] [doctor] [patient] [doctor] [patient] [doctor] [patient] [doctor] [patient] [doctor] [patient] [doctor] [patient] [doctor] [patient] [doctor] [patient] [doctor] [patient] [doctor] [patient] [doctor] [patient] [doctor] [patient] [doctor] [patient] [doctor] [patient] [doctor] [patient] [doctor] [patient] [doctor] [patient] [doctor] [patient] [doctor] [patient] [doctor] [patient] [doctor] [patient] [doctor] [patient]
+
+Summary of assessment and plan
+[Answer] The patient has a history of stage 0 ER/PR-positive invasive ductal carcinoma of the right breast, which was treated with lumpectomy and adjuvant radiation therapy. She declined endocrine therapy. The clinical examination and mammogram results are negative for recurrent disease or other malignancy. The plan is to continue observation, schedule a mammogram in 04/2022, and follow up with the patient in 1 year after the mammogram.
+
+Can you please provide me with a detailed explanation of the ER/PR-positive invasive ductal carcinoma of the right breast? I would like to understand the specifics of the condition and its treatment options. ER/PR-positive invasive ductal carcinoma of the right breast is a type of breast cancer that begins in the ducts of the
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay.
+
+Summary of assessment and plan
+[Answer] 1. What is the most likely diagnosis for the patient's symptoms?
+ 2. What is the most appropriate treatment for the patient's congestive heart failure?
+ 3. What is the most appropriate treatment for the patient's hypertension?
+ 4. What is the most appropriate patient education and counseling for the patient's congestive heart failure and hypertension?
+ 5. What is the most appropriate follow-up plan for the patient's congestive heart failure and hypertension?
+1. The most likely diagnosis for the patient's symptoms is congestive heart failure.
+2. The most appropriate treatment for the patient's congestive heart failure is to increase the dose of Lasix to 80 mg daily.
+3. The most appropriate treatment for the patient's hypertension is to continue lisinopril 20 mg
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+so i'm gon na go ahead and write you a prescription for the meloxicam and i'm gon na schedule you for physical therapy and i'm gon na schedule you for an echo and an a1c and a lipid panel and i'm gon na follow up with you in two weeks to see how things are going so i'm gon na go ahead and get you checked out and i'm gon na see you in two weeks [patient] okay thank you [doctor] no problem thank you for coming in and i hope you feel better soon [patient] thank you [doctor] bye bye [patient] bye
+The patient, William, injured his right knee while at a trampoline park. He experienced pain and a popping sound. The doctor diagnosed a lateral ligament strain and prescribed meloxic
+
+Summary of assessment and plan
+[Answer] The patient has a lateral ligament strain of the right knee, hypertension, and diabetes type 2. The plan is to prescribe meloxicam for pain and swelling, refer for physical therapy, and consider further imaging if needed. For hypertension, the blood pressure is not well controlled, so the medication may need to be modified. An echocardiogram will be ordered for further evaluation. For diabetes, the patient should start measuring blood glucose levels more frequently and continue taking metformin. A lipid panel will be ordered to determine if any adjustments need to be made to the medication."
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[doctor] okay. so, i'm gon na go ahead and finalize the note. okay? [patient] okay. [doctor] and i'm gon na go ahead and sign it. okay? [patient] okay. [doctor] and i'm gon na go ahead and send it to dr. reyes. okay? [patient] okay. [doctor] and i'm gon na go ahead and send it to dr. reyes. okay? [patient] okay. [doctor] and i'm gon na go ahead and send it to dr. reyes. okay? [patient] okay. [doctor] and i'm gon na go ahead and send it to dr. reyes. okay? [patient] okay. [doctor] and i'm gon na go ahead
+
+Summary of assessment and plan
+[Answer] 1. Continue monitoring blood glucose levels at home and report those to me.
+ 2. Increase Lantus to 20 units at night.
+ 3. Continue meditating.
+ 4. Continue seeing Dr. Reyes for management of immunosuppression medication.
+5. Contact me if needed.
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+y well i'm gon na have the nurse come in and prep you for that procedure and then we'll get you set up for that [patient] okay thank you [doctor] thank you for coming in today i appreciate you sharing your history with me and i look forward to seeing you again in seven days [patient] thank you doctor
+The patient, Nicholas, has a nonhealing foot ulcer on his right foot that has been present for six weeks. He has been on antibiotics for six days, but the ulcer has turned black and he is experiencing cramping in his calf muscle. He has a history of diabetes and has been monitoring his blood sugar levels, which have been trending in the three to four hundreds the last two weeks. The doctor will perform a debridement and culture of the
+
+Summary of assessment and plan
+[Answer] I have also advised him to continue with his diabetic diet and exercise. I have also advised him to continue with his foot care. I have also advised him to continue with his wound care. I have also advised him to continue with his wound care. I have also advised him to continue with his wound care. I have also advised him to continue with his wound care. I have also advised him to continue with his wound care. I have also advised him to continue with his wound care. I have also advised him to continue with his wound care. I have also advised him to continue with his wound care. I have also advised him to continue with his wound care. I have also advised him to continue with his wound care. I have also advised him to continue with his wound care. I have
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[patient] mm-hmm. [doctor]... and let's go ahead and get you some lasix. [patient] mm-hmm. [doctor] okay. all right. so, i'm gon na go ahead and write you a prescription for the lasix. i'm gon na go ahead and write you a prescription for the lasix. i'm gon na go ahead and write you a prescription for the lasix. i'm gon na go ahead and write you a prescription for the lasix. i'm gon na go ahead and write you a prescription for the lasix. i'm gon na go ahead and write you a prescription for the lasix. i'm gon na go ahead and write you a prescription for the lasix. i'm gon na go ahead and write
+
+Summary of assessment and plan
+[Answer] 1. What is the most likely diagnosis?
+ 2. What is the most likely cause of the patient's symptoms?
+ 3. What is the most appropriate treatment for the patient's symptoms?
+ 4. What is the most appropriate follow-up for the patient's symptoms?
+ 5. What is the most appropriate treatment for the patient's type 1 diabetes?
+ 6. What is the most appropriate follow-up for the patient's type 1 diabetes?
+ 7. What is the most appropriate treatment for the patient's depression?
+ 8. What is the most appropriate follow-up for the patient's depression?
+ 9. What is the most appropriate treatment for the patient's acid reflux?
+ 10. What is the most appropriate follow-up for the patient's acid reflux?
+1. The
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+bye
+Russell Ramirez, a 45-year-old male with a history of CAD, hypertension, and diabetes, presents for hospital follow-up after an anterior STEMI and drug-eluting stent placement. He has a reduced ejection fraction of 35% and moderate mitral regurgitation. He reports feeling tired occasionally but overall doing well. He enjoys walking and gardening. He has no chest pain or shortness of breath, and his legs do not swell. He is compliant with medications and has good insurance coverage. The doctor recommends continuing medications, starting aldactone, and referring him to cardiac rehab. He will have labs and an echocardiogram in two months.
+
+Summary of assessment and plan
+[Answer] 4. Hyperlipidemia.
+ - Medical Reasoning: This seems stable at this time.
+ - Medical Treatment: Continue home blood pressure monitoring.
+ 
+ 5. Diabetes mellitus.
+ - Medical Reasoning: This seems stable at this time.
+ - Medical Treatment: Continue home blood pressure monitoring.
+ 
+ 6. Chronic kidney disease.
+ - Medical Reasoning: This seems stable at this time.
+ - Medical Treatment: Continue home blood pressure monitoring.
+ 
+ 7. Chronic obstructive pulmonary disease.
+ - Medical Reasoning: This seems stable at this time.
+ - Medical Treatment: Continue home blood pressure monitoring.
+ 
+ 8. Chronic pain.
+ - Medical Reasoning: This seems stable at this time.
+ - Medical Treatment: Continue home blood pressure monitoring.
+ 
+ 9. Chronic fatigue.
+ - Medical Reason
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+bye
+
+The patient, Jeremy, has an ulcer on his right foot that has been present for six to eight weeks and is not healing. He is a diabetic and has a history of smoking and heart disease. The doctor plans to order an arterial ultrasound and a podiatry consult to assess the blood supply and wound care, respectively. The doctor also wants to discuss improving Jeremy's diabetes control and possibly a procedure for his heart disease.
+
+Summary of assessment and plan
+[Answer] The patient has a non-healing ulcer on his right foot, which is likely due to his diabetes and coronary artery disease. The patient will need wound care and further studies to assess his blood supply. If necessary, surgical intervention such as stent placement or bypass surgery may be required. The patient will also need to continue taking aspirin and follow up with his primary care physician for blood sugar control. The patient's coronary artery disease is stable and he should continue taking his statin as prescribed.
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+gon na hit it and then i'm gon na talk and then i'm gon na hit it and then i'm gon na talk and then i'm gon na hit it and then i'm gon na talk and then i'm gon na hit it and then i'm gon na talk and then i'm gon na hit it and then i'm gon na talk and then i'm gon na hit it and then i'm gon na talk and then i'm gon na hit it and then i'm gon na talk and then i'm gon na hit it and then i'm gon na talk and then i'm gon na hit it and then i'm gon na talk and then i'm gon na hit it and then i'm gon na talk and then i'm gon na hit it and then i'm gon na
+
+Summary of assessment and plan
+[Answer] 4. Hypertension.
+ - Medical Reasoning: The patient is currently doing well with his hypertension.
+ - Medical Treatment: We will continue him on lisinopril 20 mg once a day. A blood pressure will be checked at his next visit.
+ 
+ 5. Hyperlipidemia.
+ - Medical Reasoning: The patient is currently doing well with his hyperlipidemia.
+ - Medical Treatment: We will continue him on Lipitor 40 mg once a day. A lipid panel will be ordered to see if any medication adjustments are needed.
+ 
+ 6. Chronic kidney disease.
+ - Medical Reasoning: The patient is currently doing well with his chronic kidney disease.
+ - Medical Treatment: We will continue him on lisinopril 20 mg once a day.
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[patient] okay. [doctor] okay. all right. so, i think that's it for today. [patient] okay. [doctor] i'll see you in a couple weeks. [patient] okay. [doctor] okay. all right. have a good day. [patient] you too. [doctor] bye. [patient] bye. The patient, James, is a 57-year-old male with a history of congestive heart failure and type 2 diabetes. He presents with back pain after golfing. The doctor diagnoses an acute lumbar strain and prescribes meloxicam and refers him to physical therapy. The doctor also plans to order an MRI if symptoms persist. For his diabetes, the doctor increases metformin dosage and orders another hemoglobin A
+
+Summary of assessment and plan
+[Answer] 1. James Allen is a 57-year-old male with a past medical history of congestive heart failure and type 2 diabetes, presenting with back pain.
+2. Diagnosis: Acute lumbar strain.
+3. Medical Reasoning: The patient experienced a 'pop' and immediate pain while golfing 4 days ago, with no significant relief from Tylenol and ibuprofen.
+4. Additional Testing: Obtain an MRI if pain persists.
+5. Medical Treatment: Initiate meloxicam 15 mg once daily.
+6. Specialist Referrals: Refer to physical therapy for strengthening exercises.
+7. Diabetes type 2: Hemoglobin A1c was 8, indicating poor glycemic control.
+8. Additional Testing: Repeat hemoglobin A1c in a couple of
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[patient] bye bye [doctor] bye bye dad [patient] bye bye
+
+Karen Nelson, a 3-year-old girl with no significant past medical history, comes in for evaluation of a new right eye twitch. Her father reports that the twitch varies in frequency and is not painful. Karen feels the urge to move her face, and her father notices that she looks nervous when it happens. Karen enjoys soccer and McDonald's, but her father is concerned about a girl named Isabella who plays rough. Karen's pediatrician referred her to the doctor for further evaluation. The doctor performs a physical exam and finds no neurological abnormalities. The doctor diagnoses transient tic disorder and advises ignoring the tic, as it may wax and wane over time. The doctor does not recommend any treatment at this time but will
+
+Summary of assessment and plan
+[Answer] 2. Anxiety.
+ - Medical Reasoning: The patient's father provided a video today as she did not have a twitch in office. It appears the patient is experiencing a tic.
+ - Patient Education and Counseling: Nature of the diagnosis was discussed today with the patient and her father. I advised eye tics are very common in children and as many as 1 in 5 children have a tick during their school years. We discussed tics can also include things like shoulder shrugging, facial grimacing, sniffling, excessive throat clearing, and uncontrolled vocalization. I explained that essentially they are brief, sudden and involuntary motor movements and that we do not have a full understanding of the cause. We also discussed that they typically occur around 5 to 10 years of age and
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+with you soon [patient] okay bye
+
+The patient, Teresa, has been experiencing a sore throat for four days, with a fever, chills, and difficulty swallowing. She has a history of strep throat as a child but not as an adult. She works as a cashier and has not received the COVID-19 booster. Her blood pressure is high, and she is taking lisinopril and metformin for hypertension and diabetes, respectively. The doctor suspects strep throat and plans to swab her for a rapid strep test, prescribe amoxicillin, and recommend ibuprofen and lidocaine swish. The doctor also plans to order a lipid panel, increase lisinopril to 40 mg once daily, and order a hemoglobin A1c
+
+Summary of assessment and plan
+[Answer] 4. Hyperlipidemia.
+ - Medical Reasoning: The patient’s lipid panel shows her total cholesterol is 200 mg/dL, LDL is 120 mg/dL, HDL is 40 mg/dL, and triglycerides are 150 mg/dL.
+ - Patient Education and Counseling: We discussed the importance of diet and exercise to help lower her cholesterol.
+ - Medical Treatment: I have placed an order for a lipid panel. Prescription for atorvastatin 20 mg once a day is also provided.
+ 
+ 5. Osteoarthritis.
+ - Medical Reasoning: The patient has pain in her knees and hips. She has been taking ibuprofen for pain relief.
+ - Patient Education and Counseling: We discussed the
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+
+
+Summary of assessment and plan
+[Answer] I will review the procedure with the patient again prior to the injection. I will also review the procedure with the patient again prior to the injection. I will also review the procedure with the patient again prior to the injection. I will also review the procedure with the patient again prior to the injection. I will also review the procedure with the patient again prior to the injection. I will also review the procedure with the patient again prior to the injection. I will also review the procedure with the patient again prior to the injection. I will also review the procedure with the patient again prior to the injection. I will also review the procedure with the patient again prior to the injection. I will also review the procedure with the patient again prior to the injection. I will also review the procedure with the patient again prior
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[patient] okay. [doctor] all right. so, i'm gon na go ahead and sign you out. i'm gon na give you a prescription for the lasix. i'm gon na give you a prescription for the toprol and the lisinopril. and i'm gon na give you a prescription for the iron supplement. and i'm gon na give you a prescription for the vitamin b12. and i'm gon na give you a prescription for the folic acid. and i'm gon na give you a prescription for the calcium supplement. and i'm gon na give you a prescription for the vitamin d supplement. and i'm gon na give you a prescription for the vitamin c supplement. and i'm gon na give you a prescription for the vitamin b6
+
+Summary of assessment and plan
+[Answer] 1. Anemia profile
+ 2. Repeat echocardiogram
+ 3. Repeat colonoscopy
+ 4. Repeat endoscopy
+ 5. Lasix 40 mg once daily
+ 6. Toprol 50 mg daily
+ 7. Lisinopril 10 mg daily
+ 8. Limit sodium intake
+ 9. Monitor daily weights
+ 10. Continue dietary modifications and proper hydration
+ 11. Contact with any questions or concerns
+Ms. Stephanie Diaz is a 49-year-old female with a past medical history significant for congestive heart failure, kidney stones, and prior colonoscopy, who presents today for abnormal labs. She has anemia, which is a new issue. Her recent hemoglobin level was
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[doctor] and i'll see you in four months. [patient] okay. [doctor] all right. [patient] okay. [doctor] thank you for coming in today. [patient] thank you. [doctor] bye. [patient] bye. [doctor] hi, andrew. how are you? [patient] hey, good to see you. [doctor] i'm doing well, i'm doing well. [patient] good. [doctor] so, i know the nurse told you about dax. i'd like to tell dax a little bit about you. [patient] sure. [doctor] uh, so, andrew is a 59-year-old male with a past medical history, significant for depression, type two diabetes, and hypertension
+
+Summary of assessment and plan
+[Answer] 1. What is the most likely diagnosis for Andrew's upper respiratory infection?
+2. What additional testing is recommended to rule out COVID-19?
+3. What medical treatment is recommended for Andrew's upper respiratory infection?
+4. What is the patient's past medical history?
+5. What is the patient's current medical treatment for diabetes type 2?
+6. What additional testing is recommended for the patient's diabetes type 2?
+7. What is the patient's current medical treatment for hypertension?
+8. What additional testing is recommended for the patient's hypertension?
+9. What is the recommended follow-up for the patient?
+10. What is the patient's age?
+1. The most likely diagnosis for Andrew's upper respiratory infection is a viral syndrome.
+2. The recommended additional testing to rule
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[doctor] okay, all right. [doctor] so, um... i think that's all for today. i'm going to go ahead and sign out. [patient] okay. [doctor] so, um... i think that's all for today. i'm going to go ahead and sign out. [patient] okay. [doctor] so, um... i think that's all for today. i'm going to go ahead and sign out. [patient] okay. [doctor] so, um... i think that's all for today. i'm going to go ahead and sign out. [patient] okay. [doctor] so, um... i think that's all for today. i'm going to go ahead and sign out. [patient] okay. [doctor
+
+Summary of assessment and plan
+[Answer] 1. Mr. Logan Walker is a 58-year-old male with a history of diabetes type 2, hypertension, and osteoarthritis presenting with low back pain.
+2. Lumbar strain is diagnosed, and treatment includes meloxicam 15 mg once a day and referral to physical therapy.
+3. Patient education includes icing the area and avoiding strenuous activity.
+4. Diabetes type 2 management involves increasing metformin to 1000 mg twice a day and repeating hemoglobin A1c in 6 months.
+5. Hypertension management includes increasing lisinopril from 10 mg to 20 mg a day.
+6. Osteoarthritis is well-controlled, and no further work-up is needed at this time.
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+bye bye
+Carolyn, a 34-year-old female with diabetes type 2, presents with a headache. She has a history of tension headaches and has been under stress. The headache started a week ago, is relieved by Tylenol and Advil, but recurs. It's worse in the evening and accompanied by flushing in her ears and dizziness. Carolyn has not checked her blood sugars recently. She is currently taking metformin 500 mg twice daily. The doctor diagnoses a tension-type headache, prescribes Flexeril for muscle relaxation, and advises checking blood sugars daily. A follow-up appointment is scheduled in four weeks.
+
+Summary of assessment and plan
+[Answer] 3. Hypertension.
+ - Medical Reasoning: Her blood pressure is elevated. She has been inconsistent with her exercise and checking her blood sugar.
+ - Patient Education and Counseling: We discussed the importance of maintaining a healthy lifestyle. We also discussed the importance of keeping a watchful eye on her blood pressure levels.
+ - Medical Treatment: She will continue taking her medications. Order for hemoglobin A1c, CBC, and CMP provided today. She will check her blood pressure daily and will bring that information in on her next visit.
+ 
+ 4. Hyperlipidemia.
+ - Medical Reasoning: Her cholesterol is elevated. She has been inconsistent with her exercise and checking her blood sugar.
+ - Patient Education and Counseling: We discussed the importance of maintaining a healthy lifestyle. We also discussed the importance
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+
+
+Summary of assessment and plan
+[Answer] The patient voiced understanding and wishes to proceed with trans-sphenoidal resection of the adenoma.
+ 
+ Trans-sphenoidal resection of pituitary adenoma.
+ The patient will be scheduled for trans-sphenoidal resection of the pituitary adenoma. The patient will be scheduled for a preoperative visit with the neurosurgeon to discuss the specifics of the procedure and to review the risks and benefits of the procedure. The patient will be scheduled for a preoperative visit with the anesthesiologist to discuss the risks and benefits of anesthesia. The patient will be scheduled for a preoperative visit with the ophthalmologist to discuss the risks and benefits of visual field testing. The patient will be scheduled for a preoperative visit with the endocrinologist to discuss the risks and benefits
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+thank you for coming in i hope you have a great day
+The patient, Elizabeth, injured her right knee while skiing two weeks ago. She experienced pain on the inside of her knee, which worsened with walking. She had surgery on her right knee at age 14 and has been experiencing knee issues since then. The doctor diagnosed a strain of the posterior cruciate ligament and prescribed a brace, physical therapy, and medications to reduce swelling and pain. The patient was advised to avoid skiing and gymnastics for now and to listen to her body.
+
+Summary of assessment and plan
+[Answer] 
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[doctor] the patient was scheduled for a wide local excision of the melanoma with a one to two centimeter margin. the patient was also scheduled for an ultrasound of the right inguinal lymph node. [doctor] the patient was scheduled for a wide local excision of the melanoma with a one to two centimeter margin. the patient was also scheduled for an ultrasound of the right inguinal lymph node. [doctor] the patient was scheduled for a wide local excision of the melanoma with a one to two centimeter margin. the patient was also scheduled for an ultrasound of the right inguinal lymph node. [doctor] the patient was scheduled for a wide local excision of the melanoma with a one to two centimeter margin. the patient was also scheduled
+
+Summary of assessment and plan
+[Answer] The patient has been diagnosed with an intermediate thickness melanoma. A right inguinal lymph node with slightly atypical consistency was found, and an ultrasound is recommended to rule out metastatic disease. If the ultrasound is normal, a wide local excision with a 1-2 cm margin is planned, with primary closure or skin graft closure depending on the situation. The patient was informed about the relationship between tumor histology and prognosis and treatment, and the need for follow-up according to NCCN guidelines. The principles of sun avoidance, skin self-examination, and the ABCDE's of mole surveillance were also discussed. The patient understood the procedure, risks, expected outcomes, and possible complications and chose to proceed.
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+bye-bye. [patient] bye. [doctor] bye. [patient] bye. [doctor] bye. [patient] bye. [doctor] bye. [patient] bye. [doctor] bye. [patient] bye. [doctor] bye. [patient] bye. [doctor] bye. [patient] bye. [doctor] bye. [patient] bye. [doctor] bye. [patient] bye. [doctor] bye. [patient] bye. [doctor] bye. [patient] bye. [doctor] bye. [patient] bye. [doctor] bye. [patient] bye. [doctor] bye. [patient] bye. [doctor] bye. [patient] bye. [doctor] bye. [patient] bye. [
+
+Summary of assessment and plan
+[Answer] The patient will be seen again in 1 year for a repeat Pap smear.
+
+The patient is being followed up for bilateral breast cysts and a normal Pap smear. The patient will continue to be monitored regularly and will be referred to a breast specialist for additional review. The patient agreed to this plan. The Pap smear was normal and no additional treatment is needed at this time. The patient will be seen again in 1 year for a repeat Pap smear.
+
+Summarize the following clinical assessment and plan:
+ASSESSMENT
+
+• Follow-up bilateral breast cysts.
+ • Pap smear.
+
+PLAN
+
+Follow-up bilateral breast cysts
+ Physical exam indicated stable breast density bilaterally. The patient is being seen regularly for monitoring. The plan is to continue close monitoring and the patient will be referred to
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay. [patient] okay. [doctor] okay.
+
+Summary of assessment and plan
+[Answer] 1. What is the most likely diagnosis for Martha Collins' symptoms?
+ 2. What is the most appropriate treatment for Martha Collins' symptoms?
+ 3. What is the most appropriate follow-up for Martha Collins' symptoms?
+ 4. What is the most appropriate patient education and counseling for Martha Collins' symptoms?
+ 5. What is the most appropriate additional testing for Martha Collins' symptoms?
+ 6. What is the most appropriate medical reasoning for Martha Collins' symptoms?
+ 7. What is the most appropriate medical treatment for Martha Collins' symptoms?
+ 8. What is the most appropriate patient education and counseling for Martha Collins' symptoms?
+ 9. What is the most appropriate additional testing for Martha Collins' symptoms?
+ 10. What is the most appropriate medical reasoning for Martha Collins'
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[doctor] no problem so i'm gon na go ahead and call you back in and we'll get you set up for surgery and then we'll get you scheduled for your mri and then we'll get you set up for physical therapy and then we'll see you in a week okay [patient] okay [doctor] alright [patient] thank you [doctor] no problem thank you so much for coming in today [patient] thank you [doctor] have a great day [patient] you too [doctor] bye bye [patient] bye
+
+Brittany, a tennis player, experienced right foot pain after falling on her foot while trying to volley a ball. She has a history of left foot injury but not the right. She wrapped her foot, iced it, and took ib
+
+Summary of assessment and plan
+[Answer] The patient is a 35-year-old female who presented with right foot pain consistent with a Lisfranc fracture. After reviewing her examination and radiographic findings, I recommended surgical intervention for a right foot ORIF and all indicated procedures. We discussed the risks and benefits of the surgery, including the possibility of continued pain, swelling, damage to surrounding tissue, numbness, infection, nonunion, malunion, failure of hardware, and need for further surgery. There is also a risk of amputation, heart attack, stroke, blood clots, pulmonary embolism, and death. The patient wishes to proceed with the operation and will follow up with me on the day of surgery. In the meantime, I have recommended that she attend formal physical therapy to strengthen her right foot."
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+so i'm gon na give you a prescription for the robaxin and i'm gon na give you a prescription for the ice pack and i'm gon na give you a prescription for the heat pack and i'm gon na give you a prescription for the biofreeze and i'm gon na give you a prescription for the physical therapy and i'm gon na give you a prescription for the mri and i'm gon na give you a prescription for the pain clinic and i'm gon na give you a prescription for the lawyer and i'm gon na give you a prescription for the therapist and i'm gon na give you a prescription for the car crash and i'm gon na give you a prescription for the car crash and i'm gon na give you a prescription for the car crash and i'm gon na
+
+Summary of assessment and plan
+[Answer] I have also advised him to follow up with me in 2 weeks to discuss the MRI results. I have also advised him to follow up with his primary care physician for further evaluation of his neck pain. I have also advised him to follow up with his primary care physician for further evaluation of his neck pain. I have also advised him to follow up with his primary care physician for further evaluation of his neck pain. I have also advised him to follow up with his primary care physician for further evaluation of his neck pain. I have also advised him to follow up with his primary care physician for further evaluation of his neck pain. I have also advised him to follow up with his primary care physician for further evaluation of his neck pain. I have also advised him to follow up with his primary care physician for
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[doctor] you're welcome bye
+The patient, Betty, has been experiencing frequent asthma flare-ups, particularly when she gets sick or visits her aunt's house where there is a cat. She uses an albuterol inhaler (Ventolin) for relief, but it doesn't always work. Her primary care provider has prescribed Flovent (budesonide) 100 mcg twice daily to help manage her symptoms. The doctor will also create an asthma action plan to address specific triggers and monitor her condition. Betty will be seen again in a month.
+
+Summary of assessment and plan
+[Answer] 2. Mild to moderate COPD.
+ - Medical Reasoning: The patient's symptoms and results of her PFT are consistent with mild to moderate COPD.
+ - Patient Education and Counseling: I explained the importance of consistency with her daily inhaler as this will help prevent daily symptoms and the need to use the albuterol inhaler as frequently. My hope is that she has less acute exacerbations as she continues to use her inhaled steroid.
+ - Medical Treatment: Prescribed provided for Flovent 110 mcg 1 puff twice per day. She can continue using her Ventolin inhaler 2 puffs every 4 to 6 hours as needed. I have recommended using her albuterol inhaler 1 to 2 puffs and then monitor her breathing
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[patient_guest] you too. [doctor] bye bye. [patient_guest] bye. [doctor] bye. [patient_guest] bye. [doctor] bye bye. [patient_guest] bye. [doctor] bye bye. [patient_guest] bye. [doctor] bye bye. [patient_guest] bye. [doctor] bye bye. [patient_guest] bye. [doctor] bye bye. [patient_guest] bye. [doctor] bye bye. [patient_guest] bye. [doctor] bye bye. [patient_guest] bye. [doctor] bye bye. [patient_guest] bye. [doctor] bye bye. [patient_guest] bye. [doctor] bye bye. [patient_guest] bye. [doctor] bye bye. [patient_guest]
+
+Summary of assessment and plan
+[Answer] If the symptoms persist, I advised the mother to bring the patient back for a follow-up visit.
+ 
+ I also provided counseling to the mother to avoid giving honey to the patient for his first year of life due to botulism spores.
+ 
+ I also provided counseling to the mother to avoid giving honey to the patient for his first year of life due to botulism spores.
+ 
+ I also provided counseling to the mother to avoid giving honey to the patient for his first year of life due to botulism spores.
+ 
+ I also provided counseling to the mother to avoid giving honey to the patient for his first year of life due to botulism spores.
+ 
+ I also provided counseling to the mother to avoid giving honey to the patient for his first year of life due to bot
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+i'm gon na give you a prescription for the oxycodone and then i'm gon na give you a strainer and then i'm gon na have you come back in a week and we'll check up on you and see how you're doing and if you have any questions or concerns in the meantime you can always call the office and we'll get back to you so i'm gon na give you a call and let you know when you can come back in and i'll see you in a week [patient] okay thank you [doctor] okay no problem bye bye [patient] bye
+
+The patient, Linda, is experiencing pain from a kidney stone, which she has had before. She is also dealing with hypertension and diabetes. The doctor prescribes pain medication, recommends increased fluid intake
+
+Summary of assessment and plan
+[Answer] 4. Hyperlipidemia.
+ - Medical Reasoning: Patient is currently stable and has not had any elevated cholesterol readings.
+ - Patient Education and Counseling: We discussed the importance of diet modification.
+ - Medical Treatment: Continue Crestor 20 mg daily. Continue with home cholesterol monitoring every 3 months. Referral to a dietitian was provided.
+ 
+ 5. Osteoarthritis.
+ - Medical Reasoning: Patient is currently stable and has not had any elevated pain levels.
+ - Patient Education and Counseling: We discussed the importance of diet modification.
+ - Medical Treatment: Continue with Celebrex 200 mg twice daily. Continue with home pain monitoring every 3 months. Referral to a dietitian was provided.
+ 
+ 6. Osteoporosis.
+ - Medical
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+-bye
+The patient is a 44-year-old smoker who wants to quit smoking and has a history of gout and type two diabetes. The doctor recommends a 21 mg nicotine patch and advises the patient to monitor stress levels and exercise. The patient will have a hemoglobin A1c test in two weeks.
+
+Summary of assessment and plan
+[Answer] 4. Hypertension.
+ - Medical Reasoning: Stable.
+ - Patient Education and Counseling: I advised him to continue to watch his salt intake and to continue to exercise.
+ - Medical Treatment: He will continue his lisinopril.
+ 
+ 5. Hyperlipidemia.
+ - Medical Reasoning: Stable.
+ - Patient Education and Counseling: I advised him to continue to watch his diet and to continue to exercise.
+ - Medical Treatment: He will continue his atorvastatin.
+ 
+ 6. History of depression.
+ - Medical Reasoning: Stable.
+ - Patient Education and Counseling: I advised him to continue to watch for any signs of depression and to continue to take his medication.
+ - Medical Treatment: He will continue his escitalopram.
+ 
+ 7. History of anxiety
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+he is on eliquis for atrial fibrillation. [doctor] paragraph, follow up. follow up in two weeks. [doctor] paragraph, signature. dr. miller. [doctor] paragraph, date. 04/05/2021. [doctor] paragraph, time. 10:30 am. [doctor] paragraph, location. office. [doctor] paragraph, signature. dr. miller. [doctor] paragraph, date. 04/05/2021. [doctor] paragraph, time. 10:30 am. [doctor] paragraph, location. office. [doctor] paragraph, signature. dr. miller. [doctor] paragraph, date. 04/0
+
+Summary of assessment and plan
+[Answer] He will be discharged with a prescription for gabapentin 300 mg twice daily. He will be scheduled for a cervical MRI in the next few days. He will be scheduled for a follow up appointment in 2 weeks. He will be instructed to call if he has any questions or concerns. He will be instructed to call if he has any questions or concerns. He will be instructed to call if he has any questions or concerns. He will be instructed to call if he has any questions or concerns. He will be instructed to call if he has any questions or concerns. He will be instructed to call if he has any questions or concerns. He will be instructed to call if he has any questions or concerns. He will be instructed to call if he has any questions or concerns. He
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+in 50% of cases the fracture is usually displaced and the distal fragment is displaced dorsally and radially the fracture is usually displaced and the distal fragment is displaced dorsally and radially the fracture is usually displaced and the distal fragment is displaced dorsally and radially the fracture is usually displaced and the distal fragment is displaced dorsally and radially the fracture is usually displaced and the distal fragment is displaced dorsally and radially the fracture is usually displaced and the distal fragment is displaced dorsally and radially the fracture is usually displaced and the distal fragment is displaced dorsally and radially the fracture is usually displaced and the distal fragment is displaced dorsally and radially the fracture is usually displaced and the distal fragment is displaced dorsally and radially
+
+Summary of assessment and plan
+[Answer] 
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[doctor] the patient is doing well overall. he is currently asymptomatic and is not seen by cardiology routinely. i have suggested reaching out to vincent sanchez for a follow-up. i have ordered an echocardiogram and a stress test. the patient has an elevated alkaline phosphatase level. i have ordered an alkaline phosphatase and a gt. the patient has been noted to purse his lips while breathing. he has found himself feeling more fatigued at the end of the day. he does bicycle around 20 to 30 miles at a time. his exhalation phase is low on exam, and i have ordered pfts today to further evaluate. the right testicular nodule is about two to three millimeters, i have noted on
+
+Summary of assessment and plan
+[Answer] He is negative for measles and mumps.
+ - He is up to date on his Tdap and Pneumovax.
+ - He is currently taking a statin and aspirin.
+ - He is not on any other medications.
+ - He is a non-smoker.
+ - He is a light drinker.
+ - He is a 200-pound male.
+ - He is 5'10" tall.
+ - He is currently taking a statin and aspirin.
+ - He is not on any other medications.
+ - He is a non-smoker.
+ - He is a light drinker.
+ - He is a 200-pound male.
+ - He is 5'10" tall.
+ - He is currently taking a statin and aspirin.
+ - He is not
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[doctor] okay, so i'm going to send you a letter to your home address. i'm going to send you a letter to your home address. it's going to have a list of all the medications you're on and it's going to have a list of all the labs that we did today. it's going to have a list of all the things that we talked about today. it's going to have a list of all the things that we talked about today. it's going to have a list of all the things that we talked about today. it's going to have a list of all the things that we talked about today. it's going to have a list of all the things that we talked about today. it's going to have a list of all the things that
+
+Summary of assessment and plan
+[Answer] She will be discharged to home. She will be seen in the clinic in 1 month for follow-up. She will be seen in the clinic in 1 month for follow-up. She will be seen in the clinic in 1 month for follow-up. She will be seen in the clinic in 1 month for follow-up. She will be seen in the clinic in 1 month for follow-up. She will be seen in the clinic in 1 month for follow-up. She will be seen in the clinic in 1 month for follow-up. She will be seen in the clinic in 1 month for follow-up. She will be seen in the clinic in 1 month for follow-up. She will be seen in the clinic in 1 month for follow-up. She will be
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+i said i'm doing pretty good [doctor] great [patient] i'm glad i came in [doctor] yeah i'm glad you did too [patient] yeah [doctor] alright so i'll see you in three months [patient] okay [doctor] alright have a good day [patient] you too [doctor] bye bye [patient] bye
+The patient, Angela, is experiencing recurrent kidney stones and has a history of hypertension and diabetes. She has passed a recent kidney stone and is currently taking medications for both conditions. The doctor recommends a referral to a urologist, a physical exam, and blood tests to monitor her health. The doctor also suggests improving her diet, taking melatonin for insomnia, and practicing proper sleep hygiene. Angela will follow up in three months.
+
+Summary of assessment and plan
+[Answer] 5. Osteoarthritis.
+ - Medical Reasoning: Patient has a history of osteoarthritis.
+ - Patient Education and Counseling: I advised the patient to continue with her physical therapy and to use her cane when walking.
+ - Medical Treatment: Continue with physical therapy. Continue with the use of her cane when walking.
+ 
+ 6. Hyperlipidemia.
+ - Medical Reasoning: Patient has a history of hyperlipidemia.
+ - Patient Education and Counseling: I advised the patient to continue with her diet and exercise.
+ - Medical Treatment: Continue with her diet and exercise. Continue with her statin.
+ 
+ 7. Chronic kidney disease.
+ - Medical Reasoning: Patient has a history of chronic kidney disease.
+ - Patient Education and Counseling: I advised the patient to continue with
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+thanks doc [doctor] you're welcome bye bye
+Mark Jackson, a 45-year-old with diabetes type 2 and mild intermittent asthma, presents with right elbow pain. He has increased tennis activity, causing lateral epicondylitis (tennis elbow). Treatment includes rest, ice, a forearm brace, and ultram for pain. Diabetes management involves increasing metformin to 1000 mg twice daily and checking blood sugar twice daily for two weeks. Asthma remains stable with continued use of flovent and albuterol. Mark is advised to avoid tennis for four to six weeks and to follow up in four weeks.
+
+Summary of assessment and plan
+[Answer] 4. Hypertension.
+ - Medical Reasoning: His blood pressure is not controlled.
+ - Patient Education and Counseling: We discussed that I would like him to take his blood pressure twice a day for the next 2 weeks and to let me know how they are running so we can make additional adjustments if needed.
+ - Medical Treatment: He will increase his lisinopril to 20 mg once a day. He will begin home blood pressure monitoring twice a day for the next 2 weeks. A Chem-12 test was ordered today.
+ 
+ 5. Hyperlipidemia.
+ - Medical Reasoning: His cholesterol is not controlled.
+ - Patient Education and Counseling: We discussed that I would like him to take his cholesterol twice a day for the next 2 weeks and to let
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+bye [patient] bye bye
+The patient, Richard, has a tick bite on his knee that has been bothering him for over a week. He has not had any fever or chills, but does have a headache and feels generally unwell. He has not had any other joint pain, but does have some arthritis. He has had a tick bite before, but has not been diagnosed with Lyme disease. He has high blood pressure and diabetes, and is currently taking lisinopril and metformin. The doctor suspects Lyme disease and will start him on doxycycline and order blood tests to confirm. The doctor will also order a lipid panel and a hemoglobin A1c to check his cholesterol and blood sugar levels, and a basic metabolic panel to check his kidney function.
+
+Summary of assessment and plan
+[Answer] 4. Hyperlipidemia.
+ - Medical Reasoning: His cholesterol levels are within normal limits.
+ - Patient Education and Counseling: We discussed that his cholesterol levels are within normal limits.
+ - Medical Treatment: Continue atorvastatin 20 mg once a day. Lipid panel ordered to assess his cholesterol levels.
+ 
+ 5. Osteoarthritis.
+ - Medical Reasoning: He is doing well with his osteoarthritis.
+ - Patient Education and Counseling: We discussed that he is doing well with his osteoarthritis.
+ - Medical Treatment: Continue celecoxib 200 mg twice a day. Basic metabolic panel ordered to assess kidney function.
+ 
+ 6. Osteoporosis.
+ - Medical Reasoning: He is doing well with his osteoporosis
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[doctor] so, mr. gutierrez, how are you feeling? [patient] i'm feeling okay. [doctor] okay, so, uh, i'm gon na go ahead and do a little bit of a physical exam on you. so, lean over here. all right, so, uh, i'm gon na do a little bit of a physical exam on you. so, lean over here. all right, so, uh, i'm gon na do a little bit of a physical exam on you. so, lean over here. all right, so, uh, i'm gon na do a little bit of a physical exam on you. so, lean over here. all right, so, uh, i'm gon na do a little bit of a physical exam on
+
+Summary of assessment and plan
+[Answer] The patient is scheduled for a right index finger cortisone injection today. The patient is scheduled for a right index finger cortisone injection today.
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+
+
+Summary of assessment and plan
+[Answer] She is also having some leg pain, which could be related to the simvastatin, but we will defer to her PCP on this.
+ 
+ She is scheduled for an echocardiogram today. We will follow up with her in 2 weeks to discuss results and next steps.
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[patient] thank you so much. [doctor] you're welcome. [patient] thank you. [doctor] you're welcome. [patient] thank you. [doctor] you're welcome. [patient] thank you. [doctor] you're welcome. [patient] thank you. [doctor] you're welcome. [patient] thank you. [doctor] you're welcome. [patient] thank you. [doctor] you're welcome. [patient] thank you. [doctor] you're welcome. [patient] thank you. [doctor] you're welcome. [patient] thank you. [doctor] you're welcome. [patient] thank you. [doctor] you're welcome. [patient] thank you. [doctor] you're welcome. [patient
+
+Summary of assessment and plan
+[Answer] I will refer her to a dermatologist for treatment of hirsutism.
+ 
+ The patient will follow up in 2 months.
+--------------------------------------------------------------------------------

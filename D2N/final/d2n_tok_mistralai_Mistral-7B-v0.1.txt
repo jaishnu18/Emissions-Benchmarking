@@ -1,0 +1,1361 @@
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[patient] okay. [doctor] all right. [patient] thank you. [doctor] you're welcome. [patient] bye. [doctor] bye.
+
+## Question 1
+
+What is the patient's diagnosis?
+
+## Question 2
+
+What is the patient's prognosis?
+
+## Question 3
+
+What is the patient's treatment plan?
+
+## Question 4
+
+What is the patient's prognosis?
+
+## Question 5
+
+What is the patient's treatment plan?
+
+## Question 6
+
+What is the patient's diagnosis?
+
+## Question 7
+
+What is the patient's prognosis?
+
+Summary of assessment and plan
+[Answer] I have a 25-year-old female patient who presents with a chief complaint of right wrist pain. She states that she was involved in a motor vehicle accident 2 weeks ago and was not wearing a seatbelt. She was thrown forward and hit her right wrist on the dashboard. She states that she has been having pain in her right wrist since the accident. She states that the pain is a 7/10 and is worse with movement. She states that she has been taking ibuprofen for the pain, but it is not helping. She states that she has not been able to work since the accident. She states that she has not been able to sleep due to the pain. She states that she has not been able to do any of her normal activities
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[doctor] you're welcome. [patient] thank you. [doctor] you're welcome. [patient] thank you. [doctor] you're welcome. [patient] thank you. [doctor] you're welcome. [patient] thank you. [doctor] you're welcome. [patient] thank you. [doctor] you're welcome. [patient] thank you. [doctor] you're welcome. [patient] thank you. [doctor] you're welcome. [patient] thank you. [doctor] you're welcome. [patient] thank you. [doctor] you're welcome. [patient] thank you. [doctor] you're welcome. [
+
+Summary of assessment and plan
+[Answer] I have a 25-year-old female patient who presents with a chief complaint of right knee pain. She states that she has been experiencing pain in her right knee for the past 2 weeks. She states that the pain is a dull ache that is worse with activity. She states that she has been taking ibuprofen for the pain, but it has not helped. She states that she has not had any trauma to the knee. She states that she has not had any recent illnesses or infections. She states that she has not had any recent travel. She states that she has not had any recent surgeries. She states that she has not had any recent hospitalizations. She states that she has not had any recent falls. She states that she has not
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+
+
+Summary of assessment and plan
+[Answer] I have a 50-year-old female patient who presents with a chief complaint of right knee pain. She has had this pain for 2 weeks. She has had a history of knee pain in the past. She has had a history of knee surgery in the past. She has had a history of knee replacement in the past. She has had a history of knee arthroscopy in the past. She has had a history of knee arthroscopy in the past. She has had a history of knee arthroscopy in the past. She has had a history of knee arthroscopy in the past. She has had a history of knee arthroscopy in the past. She has had a history of knee arthrosc
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[patient] okay. [doctor] thank you. [patient] thank you. [doctor] bye. [patient] bye.
+
+## Question 1
+
+What is the most likely diagnosis?
+
+## Answer
+
+The most likely diagnosis is a sprain of the distal interphalangeal joint of the right index finger.
+
+## Question 2
+
+What is the most likely diagnosis?
+
+## Answer
+
+The most likely diagnosis is a sprain of the distal interphalangeal joint of the right index finger.
+
+## Question 3
+
+What is the most likely diagnosis?
+
+## Answer
+
+The most likely diagnosis is a sprain of the distal interphalangeal joint
+
+Summary of assessment and plan
+[Answer] I have a 50-year-old female patient who presents with a chief complaint of right wrist pain. She states that she has had pain for 2 weeks. She states that she has had a history of wrist pain in the past. She states that she has had a history of wrist pain in the past. She states that she has had a history of wrist pain in the past. She states that she has had a history of wrist pain in the past. She states that she has had a history of wrist pain in the past. She states that she has had a history of wrist pain in the past. She states that she has had a history of wrist pain in the past. She states that she has had a history of wrist pain in the past. She states that she has
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+## Expert Answer
+
+Answer to the question:
+
+The patient-doctor conversation summarized in 50 words or less is as follows:
+
+The patient, Judy Gomez, is in the doctor’s office for ongoing management of psoriatic arthritis. The doctor asks how she is doing and she responds that she is doing good. The doctor asks how she has been since the last time and she says that she is on one prednisone dose now and that seems to be enough. The doctor is happy to hear this and asks if the methotrexate helped with her joint pain. The patient says that it did and that she got her covid shots but stopped taking the methotrexate because
+
+Summary of assessment and plan
+[Answer] High risk medication use.
+ The patient will be referred to the pharmacist for a medication review.
+
+The patient is a 55-year-old woman with a history of psoriatic arthritis. She has been taking methotrexate 15 mg weekly for 1 year. She has been taking prednisone 1 mg daily for 1 year. She has been taking ibuprofen 600 mg every 6 hours as needed for pain. She has been taking acetaminophen 500 mg every 6 hours as needed for pain. She has been taking naproxen 500 mg every 8 hours as needed for pain. She has been taking hydrocodone
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[patient] thank you. [doctor] all right. [patient] thank you. [doctor] all right. [patient] thank you. [doctor] all right. [patient] thank you. [doctor] all right. [patient] thank you. [doctor] all right. [patient] thank you. [doctor] all right. [patient] thank you. [doctor] all right. [patient] thank you. [doctor] all right. [patient] thank you. [doctor] all right. [patient] thank you. [doctor] all right. [patient] thank you. [doctor] all right. [patient] thank you. [doctor] all right. [patient] thank
+
+Summary of assessment and plan
+[Answer] I have a 25-year-old female patient who presents with a chief complaint of right wrist pain. She states that she was playing volleyball and fell on her right wrist. She states that she heard a pop and felt immediate pain. She states that she has been unable to move her wrist since the injury. She states that she has been unable to sleep due to the pain. She states that she has been taking Motrin 600 mg every 6 hours for the past 2 days. She states that she has not been able to work due to the pain. She states that she has not been able to do any of her normal activities due to the pain. She states that she has not been able to drive due to the pain. She states that she has
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[doctor] all right. [patient] thank you. [doctor] you're welcome.
+
+## Expert Answer
+
+Answer to the question:
+
+The patient-doctor conversation summarized in 50 words or less is as follows:
+
+The patient, Pamela Cook, is a 36-year-old female who underwent bilateral reduction mammoplasty on October 10, 2020. The doctor asks how she is doing and she replies that she is good. The doctor asks how her breasts are doing and she says they are good. The doctor asks if she is having any chills, fever, nausea, or vomiting and she says no. The doctor says everything looks
+
+Summary of assessment and plan
+[Answer] - Continue to wear a sports bra 24/7 for 6 weeks.
+ - Continue to wear a compression garment for 6 weeks.
+ - Continue to wear a compression garment for 6 weeks.
+ - Continue to wear a compression garment for 6 weeks.
+ - Continue to wear a compression garment for 6 weeks.
+ - Continue to wear a compression garment for 6 weeks.
+ - Continue to wear a compression garment for 6 weeks.
+ - Continue to wear a compression garment for 6 weeks.
+ - Continue to wear a compression garment for 6 weeks.
+ - Continue to wear a compression garment for 6 weeks.
+ - Continue to wear
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+## Question 1: What is the patient's chief complaint?
+
+The patient's chief complaint is pain in her right elbow.
+
+## Question 2: What is the patient's history of present illness?
+
+The patient's history of present illness is that she was moving boxes from a truck into a house and felt a popping sensation in her right elbow. She has been taking ibuprofen and using ice, but the pain has not improved.
+
+## Question 3: What is the patient's past medical history?
+
+The patient has a history of anaphylaxis and has had a carotid surgery.
+
+## Question 4: What is the patient's social history?
+
+The patient is
+
+Summary of assessment and plan
+[Answer] I have a 65-year-old female patient who presents with a chief complaint of right shoulder pain. She states that she has had pain for 2 weeks. She states that she has had a history of shoulder pain in the past. She states that she has had a history of shoulder dislocations in the past. She states that she has had a history of shoulder surgery in the past. She states that she has had a history of shoulder sprains in the past. She states that she has had a history of shoulder strains in the past. She states that she has had a history of shoulder fractures in the past. She states that she has had a history of shoulder tendonitis in the past. She states that she has had a history of shoulder bursitis
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+very much [patient] thank you
+
+Summary of assessment and plan
+[Answer] - Patient Education: I have educated the patient on the importance of drinking fluids to help pass the stone. I have also educated him on the importance of taking his medications as prescribed.
+
+2. Acute cholecystitis.
+ - Medical Reasoning: The patient presents with complaints of right upper quadrant pain. His previous CT scan was reviewed and demonstrates a 1.5 cm gallbladder with wall thickening and pericholecystic fluid.
+ - Medical Treatment: I have recommended that he push fluids in order to help facilitate urination to help pass the stone. He will be provided with a strainer to allow us to potentially test the stone if he is able to pass it. I have also prescribed o
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[patient] okay. [doctor] and then i'll see you in a year. [patient] okay. [doctor] all right. [patient] thank you. [doctor] you're welcome. [patient] bye. [doctor] bye.
+
+## Question 1
+
+What is the most likely diagnosis for this patient?
+
+## Question 2
+
+What is the most likely diagnosis for this patient?
+
+## Question 3
+
+What is the most likely diagnosis for this patient?
+
+## Question 4
+
+What is the most likely diagnosis for this patient?
+
+## Question 5
+
+What is the most likely diagnosis for this patient?
+
+## Question 6
+
+What is
+
+Summary of assessment and plan
+[Answer] • Medical Treatment: The patient will continue to follow up with his orthopedic surgeon.
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[patient] thank you. [doctor] bye. [patient] bye.
+
+## Question 1: What is the patient's chief complaint?
+
+The patient's chief complaint is left shoulder pain.
+
+## Question 2: What is the patient's history?
+
+The patient is a 44-year-old female who has been experiencing left shoulder pain for a week. She was in gymnastics class when the pain started. She has taken Tylenol for two or three days, but it did not help. She has had past surgery on her left arm.
+
+## Question 3: What is the patient's physical examination?
+
+The patient's physical examination is normal.
+
+## Question
+
+Summary of assessment and plan
+[Answer] I have a 50-year-old female patient who presents with left shoulder pain. She has a history of a fall on her left shoulder. She has been experiencing pain for the past two weeks. She has been taking ibuprofen for the pain. She has no other medical problems. She is a non-smoker and does not drink alcohol. She is married and has two children. She works as a secretary. She is right-handed. She has no known allergies. She has no history of falls or injuries. She has no history of trauma to her left shoulder. She has no history of pain in her left shoulder. She has no history of pain in her right shoulder. She has no history of pain in her neck. She has no history of pain in
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+
+
+Summary of assessment and plan
+[Answer] I will see him back in 2 weeks to reassess his symptoms and determine if he is ready to return to pottery.
+
+Summarize the following clinical assessment and plan:
+ASSESSMENT
+
+Right medial epicondylitis.
+
+PLAN
+
+The patient and I discussed his diagnosis in detail, and I explained that his symptoms are likely caused by overuse and potential damage of the tendons. We will provide him with sling to be worn during the day while he is awake. I want him to take ibuprofen 600 mg every 6 hours with food for a full week and ice the elbow for 20 minutes, 3 times daily. Finally, I advised the patient to rest his elbow and avoid
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+56-year-old male with anemia. [doctor] i'm going to go ahead and put down the anemia as being due to gastritis. [doctor] i'm going to put down the gastritis as being due to, uh, nsaids. [doctor] i'm going to put down the nsaids as being due to, uh, chronic use. [doctor] i'm going to put down the chronic use as being due to, uh, chronic pain. [doctor] i'm going to put down the chronic pain as being due to, uh, knee replacement. [doctor] i'm going to put down the knee replacement as being due to,
+
+Summary of assessment and plan
+[Answer] 1. What is the most likely diagnosis?
+ 2. What is the most likely cause of the anemia?
+ 3. What is the most likely cause of the gastritis?
+ 4. What is the most likely cause of the polyp?
+ 5. What is the most likely cause of the polypectomy?
+ 6. What is the most likely cause of the pathology?
+ 7. What is the most likely cause of the caffeine consumption?
+ 8. What is the most likely cause of the NSAIDs?
+ 9. What is the most likely cause of the alcohol?
+ 10. What is the most likely cause of the Protonix?
+ 11. What is the
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[patient] bye
+
+Summary of assessment and plan
+[Answer] The patient is a smoker and I have recommended that he stop smoking. I have also recommended that he stop drinking alcohol.
+ 
+ The patient is currently on a statin for his hyperlipidemia. I have recommended that we discontinue the statin and start him on a non-statin medication for his hyperlipidemia.
+ 
+ The patient is currently on a beta blocker for his hypertension. I have recommended that we discontinue the beta blocker and start him on a calcium channel blocker.
+ 
+ The patient is currently on a proton pump inhibitor for his GERD. I have recommended that we discontinue the proton pump inhibitor and start him on a histamine-2 re
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[patient] okay [doctor] yeah i'm gon na give you a prescription for the singulair and the albuterol inhaler and i'll see you next week [patient] okay [doctor] thank you [patient] thank you [doctor] bye [patient] bye
+
+Summary of assessment and plan
+[Answer] I have also recommended that the patient continue to use his inhaler as needed. I have also recommended that he continue to use his inhaler as needed. I have also recommended that he continue to use his inhaler as needed. I have also recommended that he continue to use his inhaler as needed. I have also recommended that he continue to use his inhaler as needed. I have also recommended that he continue to use his inhaler as needed. I have also recommended that he continue to use his inhaler as needed. I have also recommended that he continue to use his inhaler as needed. I have also recommended that he continue to use his inhaler as needed. I have also recommended that he continue to use his inhaler
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[patient] all right. [doctor] all right. [patient] all right. [doctor] all right. [patient] all right. [doctor] all right. [patient] all right. [doctor] all right. [patient] all right. [doctor] all right. [patient] all right. [doctor] all right. [patient] all right. [doctor] all right. [patient] all right. [doctor] all right. [patient] all right. [doctor] all right. [patient] all right. [doctor] all right. [patient] all right. [doctor] all right. [patient] all right. [doctor] all right. [patient] all
+
+Summary of assessment and plan
+[Answer] 1. What is the medical reasoning for the treatment plan?
+ 2. What is the medical treatment plan?
+ 3. What is the rationale for the treatment plan?
+ 4. What is the rationale for the treatment plan?
+ 5. What is the rationale for the treatment plan?
+ 6. What is the rationale for the treatment plan?
+ 7. What is the rationale for the treatment plan?
+ 8. What is the rationale for the treatment plan?
+ 9. What is the rationale for the treatment plan?
+ 10. What is the rationale for the treatment plan?
+ 11. What is the rationale for the treatment plan?
+ 12. What is the r
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[patient] okay. [doctor] all right. [patient] thank you. [doctor] you're welcome. [patient] thank you. [doctor] all right. [patient] thank you. [doctor] all right. [patient] thank you. [doctor] all right. [patient] thank you. [doctor] all right. [patient] thank you. [doctor] all right. [patient] thank you. [doctor] all right. [patient] thank you. [doctor] all right. [patient] thank you. [doctor] all right. [patient] thank you. [doctor] all right. [patient] thank you. [doctor] all right. [patient]
+
+Summary of assessment and plan
+[Answer] 1. What is the most likely diagnosis?
+ 2. What is the differential diagnosis?
+ 3. What is the most likely cause of the patient’s symptoms?
+ 4. What is the most likely diagnosis?
+ 5. What is the differential diagnosis?
+ 6. What is the most likely cause of the patient’s symptoms?
+ 7. What is the most likely diagnosis?
+ 8. What is the differential diagnosis?
+ 9. What is the most likely cause of the patient’s symptoms?
+ 10. What is the most likely diagnosis?
+ 11. What is the differential diagnosis?
+ 12. What is the most likely cause of the patient’s symptoms?
+ 13. What is
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[doctor] bye
+
+Summary of assessment and plan
+[Answer] 2. Psoriasis.
+ - Medical Reasoning: The patient presents today with symptoms similar to psoriasis.
+ - Patient Education and Counseling: Nature of the diagnosis was discussed as well as treatment options. Patient was advised there is no cure for this. Patient was counseled on how to apply clobetasol 0.05%.
+ - Medical Treatment: Prescription for clobetasol 0.05% solution twice daily provided. Continuing using T/Gel shampoo. Prescription for steroids provided to be used for flare ups.
+
+ 3. Psoriasis.
+ - Medical Reasoning: The patient presents today with symptoms similar to psoriasis
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+
+
+Summary of assessment and plan
+[Answer] I have also recommended that she begin a physical therapy program to help with her knee pain and to help her regain her strength.
+
+© BrainMass Inc. brainmass.com October 10, 2019, 1:00 am ad1c9bdddf
+https://brainmass.com/health-sciences/nursing/clinical-assessment-and-plan-11145
+
+This solution provides a clinical assessment and plan for a patient with right knee pain.
+
+$2.19
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+
+
+Summary of assessment and plan
+[Answer] I will see her again in 2 weeks to re-evaluate her progress.
+
+© BrainMass Inc. brainmass.com October 10, 2019, 1:00 am ad1c9bdddf
+https://brainmass.com/health-sciences/nursing/clinical-assessment-and-plan-46253
+
+This solution provides a clinical assessment and plan for a patient with a lateral ligament complex sprain.
+
+$2.19
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+
+
+Summary of assessment and plan
+[Answer] © BrainMass Inc. brainmass.com October 10, 2019, 1:00 am ad1c9bdddf
+https://brainmass.com/health-sciences/physical-therapy/physical-therapy-assessment-and-plan-11140
+
+This solution provides a physical therapy assessment and plan.
+
+$2.19
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+
+
+Summary of assessment and plan
+[Answer] 
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+
+
+Summary of assessment and plan
+[Answer] Mrs. Sanchez is a 58-year-old female who is a retired teacher. She is married and has two children. She is a nonsmoker and denies alcohol use. She has a history of hypertension, hyperlipidemia, and mitral valve prolapse. She has no known drug allergies.
+
+Mrs. Sanchez was admitted to the hospital on 08/03/2020 for a mitral valve repair. She was diagnosed with mitral valve prolapse in 2015. She was started on Lasix 40 mg daily and Coumadin 4 mg daily. She was seen in the clinic on 07/29/
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+jerry [patient] bye
+
+Summary of assessment and plan
+[Answer] © BrainMass Inc. brainmass.com October 10, 2019, 1:00 am ad1c9bdddf
+https://brainmass.com/health-sciences/nursing/nursing-assessment-and-plan-46563
+
+This solution provides a nursing assessment and plan for a patient with a right lateral malleolar fracture.
+
+$2.19
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[doctor] bye
+
+Summary of assessment and plan
+[Answer] The patient has been diagnosed with a herniated disc at the L4-5 level. This is a common condition that can cause pain, numbness, and weakness in the lower back and legs. The patient has been experiencing these symptoms for several weeks, and they have been getting worse. The patient has tried conservative treatment, including physical therapy and pain medication, but the symptoms have not improved. The patient is now considering surgery to remove the herniated disc.
+
+The patient is a 45-year-old male who is in good health. He is a smoker and drinks alcohol occasionally. He has no history of heart disease, diabetes, or other medical conditions. The patient is right-handed and works as a carpenter. He is married and
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+
+
+Summary of assessment and plan
+[Answer] 2. Hypertension.
+ - Medical Reasoning: Her blood pressure was 150/90. She has a history of hypertension, but she has not been compliant with her medications.
+ - Patient Education and Counseling: I discussed the importance of taking her medications as prescribed and the potential consequences of not doing so.
+ - Medical Treatment: I'm going to order a 24-hour ambulatory blood pressure monitoring to assess her blood pressure control.
+ 
+ 3. Diabetes.
+ - Medical Reasoning: Her A1C was 8.5. She has a history of diabetes, but she has not been compliant with her medications.
+ - Patient Education and Counseling
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[nurse] hi, doctor. [doctor] hi, nurse. [nurse] hi. [doctor] how are you? [nurse] i'm good. [doctor] good. [nurse] so, i'm going to go ahead and get the patient ready for his discharge. [doctor] okay. [nurse] and i'll see you in a little bit. [doctor] okay. [nurse] okay. [doctor] all right. [nurse] all right. [doctor] bye. [nurse] bye.
+
+Summary of assessment and plan
+[Answer] 1. What is the most likely diagnosis for this patient?
+ 2. What is the most likely diagnosis for this patient?
+ 3. What is the most likely diagnosis for this patient?
+ 4. What is the most likely diagnosis for this patient?
+ 5. What is the most likely diagnosis for this patient?
+ 6. What is the most likely diagnosis for this patient?
+ 7. What is the most likely diagnosis for this patient?
+ 8. What is the most likely diagnosis for this patient?
+ 9. What is the most likely diagnosis for this patient?
+ 10. What is the most likely diagnosis for this patient?
+ 11. What is the most likely diagnosis for this patient?
+ 12. What
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+well i'll see you in two weeks [patient] okay [doctor] okay bye bye [patient] bye bye
+
+## Question 1: What is the patient's chief complaint?
+
+The patient's chief complaint is a non-healing wound on his right foot.
+
+## Question 2: What is the patient's history?
+
+The patient has a history of diabetes and neuropathy. He has had a wound on his right foot for two to three weeks that is not healing. He has seen his primary care physician and was referred to a podiatrist. He has been taking antibiotics for the wound but it has not improved. He has had a previous foot wound that was treated by a podiat
+
+Summary of assessment and plan
+[Answer] I have also recommended that he see a podiatrist to discuss his foot care.
+
+© BrainMass Inc. brainmass.com October 10, 2019, 1:00 am ad1c9bdddf
+https://brainmass.com/health-sciences/nursing/clinical-assessment-and-plan-11335
+
+This solution provides a clinical assessment and plan for a patient with a right foot diabetic ulcer.
+
+$2.19
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+so much for coming in today i'll see you in a couple weeks [patient] thank you [doctor] bye
+
+Summary of assessment and plan
+[Answer] 
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+
+
+Summary of assessment and plan
+[Answer] He will be seen again in 1 week for a re-evaluation.
+
+© BrainMass Inc. brainmass.com October 10, 2019, 1:00 am ad1c9bdddf
+https://brainmass.com/health-sciences/nursing/clinical-assessment-and-plan-11335
+
+This solution provides a clinical assessment and plan for a patient with a left ankle sprain of the lateral ligament complex.
+
+$2.19
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+
+
+Summary of assessment and plan
+[Answer] I also discussed the need for a splint and crutches. She will need to use crutches for 6 weeks, and will need to wear a splint for 6 weeks. She will need to wear a walking boot for 6 weeks after the splint is removed. She will need to wear a walking boot for 6 weeks after the splint is removed. She will need to wear a walking boot for 6 weeks after the splint is removed. She will need to wear a walking boot for 6 weeks after the splint is removed. She will need to wear a walking boot for 6 weeks after the splint is removed. She will need to wear a walking boot for 6 weeks after the splint is removed. She will need to
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[doctor] thank you.
+
+## Questions 1-5
+
+Choose the correct letter, A, B, C or D.
+
+Write the correct letter in boxes 1-5 on your answer sheet.
+
+1 What does the doctor say about Kayla’s acne?
+
+A It is not too bad.
+
+B It is not bad on her chest and back.
+
+C She has used some over-the-counter items.
+
+D She has been using sunscreen in the summer.
+
+2 What does Kayla say about her skin care routine?
+
+A She uses a cleanser in the morning.
+
+B She uses a toner in the evening.
+
+C She uses a cleanser in
+
+Summary of assessment and plan
+[Answer] 
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+♪ ♪
+
+Summary of assessment and plan
+[Answer] I'm not sure if I should be taking this medication anymore. I'm not sure if I'm still at risk for a heart attack."
+ • Medical Reasoning: The patient is at risk for a heart attack.
+ • Medical Treatment: Continue aspirin 81 mg daily.
+ 
+ History of breast cancer.
+ • Medical Reasoning: She is doing well at this time. We will continue to monitor this.
+ • Medical Treatment: Mammogram ordered.
+ 
+ History of diabetes.
+ • Medical Reasoning: She is doing well at this time. We will continue to monitor this.
+ • Medical Treatment: Continue metformin 500 mg twice daily.
+ 
+ History of hypert
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+
+
+Summary of assessment and plan
+[Answer] 2. Right knee sprain.
+ - Medical Reasoning: The patient is an avid runner and her symptoms appear to be the result of overuse.
+ - Patient Education and Counseling: We discussed the nature of her diagnosis, as well as her x-ray results, in detail. I advised her that this is a common issue for runners and encouraged her to continue her strength training exercises.
+ - Medical Treatment: She will take Tylenol 500 mg, 2 tablets, and ibuprofen 200 mg, 2 tablets, 3 times daily to reduce her pain and inflammation. We will also refer her to physical therapy to help strengthen her lower extremities, work on her balance, and demonstrate
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+
+
+Summary of assessment and plan
+[Answer] 1. What is the most likely diagnosis?
+ 2. What is the most likely cause of the patient’s hyperglycemia?
+ 3. What is the most likely cause of the patient’s hyperglycemia?
+ 4. What is the most likely cause of the patient’s hyperglycemia?
+ 5. What is the most likely cause of the patient’s hyperglycemia?
+ 6. What is the most likely cause of the patient’s hyperglycemia?
+ 7. What is the most likely cause of the patient’s hyperglycemia?
+ 8. What is the most likely cause of the patient’s hyperglycemia?
+ 9.
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[doctor] okay alright so i'll go ahead and order that mri and we'll get you started on physical therapy and we'll see you back in about six to eight weeks and if you have any questions in the meantime you can always call the office and we'll be happy to help you out [patient] okay sounds good [doctor] okay thanks [patient] thanks [doctor] bye-bye [patient] bye-bye
+
+Summary of assessment and plan
+[Answer] 
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[patient] thank you. [doctor] thank you. [patient] thank you. [doctor] bye. [patient] bye.
+
+## Summary
+
+The patient is a 48-year-old female with a history of depression, smoking, and chronic back pain. She presents with shortness of breath. The doctor diagnoses her with chronic obstructive pulmonary disease (COPD) and prescribes her medication.
+
+## Analysis
+
+The patient is a 48-year-old female with a history of depression, smoking, and chronic back pain. She presents with shortness of breath. The doctor diagnoses her with chronic obstructive pulmonary disease (COPD) and prescribes her medication.
+
+Summary of assessment and plan
+[Answer] 1. What is the most important thing you learned from this case?
+ 2. What is the most important thing you learned from this case?
+ 3. What is the most important thing you learned from this case?
+ 4. What is the most important thing you learned from this case?
+ 5. What is the most important thing you learned from this case?
+ 6. What is the most important thing you learned from this case?
+ 7. What is the most important thing you learned from this case?
+ 8. What is the most important thing you learned from this case?
+ 9. What is the most important thing you learned from this case?
+ 10. What is the most important thing you learned from this case?
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[patient] alright thank you [doctor] thank you
+
+Summary of assessment and plan
+[Answer] 3. Diabetes.
+ - Medical Treatment: The patient will continue taking metformin 500 mg twice a day. I have also provided a referral to see a nutritionist for dietary changes.
+ 
+ 4. Chronic obstructive pulmonary disease (COPD).
+ - Medical Treatment: The patient will continue taking albuterol 2 puffs twice a day. I have also provided a referral to see a pulmonologist for further evaluation.
+ 
+ 5. Depression.
+ - Medical Treatment: The patient will continue taking sertraline 50 mg daily. I have also provided a referral to see a psychiatrist for further evaluation.
+ 
+ 6. Anxiety
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[doctor] okay. [patient] all right. [doctor] all right. [patient] all right. [doctor] all right. [patient] all right. [doctor] all right. [patient] all right. [doctor] all right. [patient] all right. [doctor] all right. [patient] all right. [doctor] all right. [patient] all right. [doctor] all right. [patient] all right. [doctor] all right. [patient] all right. [doctor] all right. [patient] all right. [doctor] all right. [patient] all right. [doctor] all right. [patient] all right. [doctor] all
+
+Summary of assessment and plan
+[Answer] Hypertension.
+ • Medical Reasoning: His blood pressure is elevated.
+ • Medical Treatment: We will increase his lisinopril to 20 mg once a day.
+ 
+  Hyperlipidemia.
+ • Medical Reasoning: His cholesterol levels are elevated.
+ • Medical Treatment: We will increase his atorvastatin to 40 mg once a day.
+ 
+  Osteoarthritis.
+ • Medical Reasoning: His pain is worse in the morning and after exercise.
+ • Medical Treatment: We will increase his Celebrex to 200 mg once a day.
+ 
+  Osteoporosis.
+ • Medical
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[doctor] bye
+
+Summary of assessment and plan
+[Answer] 4. Diabetes mellitus.
+ - Medical Reasoning: The patient’s blood glucose levels are stable.
+ - Patient Education and Counseling: I reviewed the importance of taking his medication on a daily basis. I encouraged the patient to purchase a glucometer to monitor his blood glucose levels.
+ - Medical Treatment: He will continue the Glucophage 500 mg twice daily.
+ 
+ 5. Hyperlipidemia.
+ - Medical Reasoning: The patient’s lipid levels are stable.
+ - Patient Education and Counseling: I reviewed the importance of taking his medication on a daily basis. I encouraged the patient to purchase a glucometer to
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[patient] okay. [doctor] all right. [patient] thank you. [doctor] you're welcome.
+
+Summary of assessment and plan
+[Answer] 1. What is the most likely diagnosis for Ms. Ramirez?
+ 2. What is the most likely diagnosis for Ms. Ramirez?
+ 3. What is the most likely diagnosis for Ms. Ramirez?
+ 4. What is the most likely diagnosis for Ms. Ramirez?
+ 5. What is the most likely diagnosis for Ms. Ramirez?
+ 6. What is the most likely diagnosis for Ms. Ramirez?
+ 7. What is the most likely diagnosis for Ms. Ramirez?
+ 8. What is the most likely diagnosis for Ms. Ramirez?
+ 9. What is the most likely diagnosis for Ms. Ramirez?
+ 10. What is the most
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[doctor] thank you.
+
+Summary of assessment and plan
+[Answer] 1. What is the most likely diagnosis for this patient?
+ 2. What is the most likely diagnosis for this patient?
+ 3. What is the most likely diagnosis for this patient?
+ 4. What is the most likely diagnosis for this patient?
+ 5. What is the most likely diagnosis for this patient?
+ 6. What is the most likely diagnosis for this patient?
+ 7. What is the most likely diagnosis for this patient?
+ 8. What is the most likely diagnosis for this patient?
+ 9. What is the most likely diagnosis for this patient?
+ 10. What is the most likely diagnosis for this patient?
+ 11. What is the most likely diagnosis for this patient?
+ 12. What
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[patient] alright [doctor] alright [patient] alright [doctor] alright [patient] alright [doctor] alright [patient] alright [doctor] alright [patient] alright [doctor] alright [patient] alright [doctor] alright [patient] alright [doctor] alright [patient] alright [doctor] alright [patient] alright [doctor] alright [patient] alright [doctor] alright [patient] alright [doctor] alright [patient] alright [doctor] alright [patient] alright [doctor] alright [patient] alright [doctor] alright [patient] alright [
+
+Summary of assessment and plan
+[Answer] 2. Chronic cough.
+ - Medical Reasoning: The patient's symptoms seem consistent with hypersensitivity pneumonitis. He is a farmer and has been moving hay quite frequently recently.
+ - Patient Education and Counseling: The nature of the diagnosis was discussed with the patient. I explained that hypersensitivity pneumonitis could be caused by bacteria and/or mold that is found in the hay. We discussed that when inhaling this, it leads to an allergic reaction in the lungs, which would explain why symptoms occur every time he moves hay. He was advised that it would be best to eliminate his exposure to hay in order to prevent further damage to his lungs, however, if he is unable to do this then it would be
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+
+
+Summary of assessment and plan
+[Answer] 2. Right knee osteoarthritis.
+ - Medical Reasoning: After reviewing her x-ray, previous MRI, and exam findings, her symptoms are consistent with osteoarthritis.
+ - Patient Education and Counseling: We discussed the nature of this condition in detail. I encouraged the patient to be conservative with her physical activity for now.
+ - Medical Treatment: Continue with over-the-counter NSAIDs for pain relief. We are going to refer her to physical therapy to help strengthen her lower extremities, increase mobility, and demonstrate proper running mechanics.
+
+ 3. Right knee meniscal tear.
+ - Medical Reasoning: After reviewing her x-ray, previous MRI, and exam
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[patient] okay [doctor] okay [patient] okay [doctor] okay [patient] okay [doctor] okay [patient] okay [doctor] okay [patient] okay [doctor] okay [patient] okay [doctor] okay [patient] okay [doctor] okay [patient] okay [doctor] okay [patient] okay [doctor] okay [patient] okay [doctor] okay [patient] okay [doctor] okay [patient] okay [doctor] okay [patient] okay [doctor] okay [patient] okay [doctor] okay [patient] okay [doctor] okay [patient] okay [doctor] okay [patient] okay [doctor] okay [patient] okay [doctor
+
+Summary of assessment and plan
+[Answer] © BrainMass Inc. brainmass.com October 10, 2019, 1:00 am ad1c9bdddf
+https://brainmass.com/health-sciences/nursing/nursing-assessment-and-plan-11335
+
+This solution provides a nursing assessment and plan for a patient with IgA deficiency.
+
+$2.19
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[doctor] you're welcome
+
+Summary of assessment and plan
+[Answer] 
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+
+
+Summary of assessment and plan
+[Answer] 1. What is the most likely diagnosis?
+ 2. What is the most likely diagnosis?
+ 3. What is the most likely diagnosis?
+ 4. What is the most likely diagnosis?
+ 5. What is the most likely diagnosis?
+ 6. What is the most likely diagnosis?
+ 7. What is the most likely diagnosis?
+ 8. What is the most likely diagnosis?
+ 9. What is the most likely diagnosis?
+ 10. What is the most likely diagnosis?
+ 11. What is the most likely diagnosis?
+ 12. What is the most likely diagnosis?
+ 13. What is the most likely diagnosis?
+ 14. What is the most likely diagnosis?
+ 1
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+
+
+Summary of assessment and plan
+[Answer] 1. What is the most likely diagnosis?
+ 2. What is the differential diagnosis?
+ 3. What is the most likely cause of the patient’s back pain?
+ 4. What is the most likely cause of the patient’s back pain?
+ 5. What is the most likely cause of the patient’s back pain?
+ 6. What is the most likely cause of the patient’s back pain?
+ 7. What is the most likely cause of the patient’s back pain?
+ 8. What is the most likely cause of the patient’s back pain?
+ 9. What is the most likely cause of the patient’s back pain?
+ 10. What is the most likely cause of the patient’
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[doctor] all right, thank you. [patient] thank you. [doctor] see you in a few months. [patient] see you. [doctor] bye. [patient] bye.
+
+Summary of assessment and plan
+[Answer] 
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+today [patient] okay [doctor] alright sounds good [nurse] okay so we're gon na get you prepped for your injection and then we'll get you back in the room and then we'll get you all set up for your injection [patient] okay [nurse] okay so we're gon na get you prepped for your injection and then we'll get you back in the room and then we'll get you all set up for your injection [patient] okay [nurse] okay so we're gon na get you prepped for your injection and then we'll get you back in the room and then we'll get you all set up for your injection [patient] okay [nur
+
+Summary of assessment and plan
+[Answer] The patient is a 45-year-old male who presents with a 2-week history of low back pain and right leg pain. He reports that the pain is worse with sitting and standing and better with lying down. He has had no relief with over-the-counter medications. He has not had any bowel or bladder dysfunction. He has no history of trauma. He has no history of cancer. He has no history of steroid use. He has no history of intravenous drug use. He has no history of HIV. He has no history of hepatitis. He has no history of diabetes. He has no history of hypertension. He has no history of smoking. He has no history of alcohol use. He has no
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+
+
+Summary of assessment and plan
+[Answer] The following are the clinical assessment and plan for Katherine.
+
+ASSESSMENT
+
+• Smith-Magenis syndrome.
+ Katherine is a 22-month-old former 34+3-week-old twin with Smith-Magenis syndrome.
+ Several organ systems can be affected by this chromosomal deletion syndrome and congenital anomalies of the kidney and urinary tract have been reported in the literature.
+
+PLAN
+
+We will obtain a kidney ultrasound screening today. If there are abnormalities on the kidney ultrasound, we will determine the next steps and future follow-up. The family lives in Dallas, Georgia, so her follow-up should be at the
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+to summarize the patient is a 53 -year-old female with a recent diagnosis of stage three nonsmile cell lung cancer who presents for follow-up during neo agit chemotherapy she was diagnosed with a four. four centimeter left upper lobe nodule biopsy was positive for adenocarcinoma molecular testing is pending at this time alright hello beverly how are you [patient] i'm good today [doctor] you're good today yeah you've been going through a lot lately i know you just had your treatment how how are your symptoms [patient] my symptoms are pretty good today i just kind of have a minimal cough and a sore throat [doctor] cough okay is it any mucus with it or
+
+Summary of assessment and plan
+[Answer] 4. Anxiety.
+ - Medical Reasoning: The patient is experiencing anxiety secondary to her recent diagnosis of stage III non-small cell lung cancer.
+ - Patient Education and Counseling: We discussed the etiology of her anxiety and that a prescription of Ativan 1 mg daily will be beneficial in helping her sleep.
+ - Medical Treatment: A prescription of Ativan 1 mg daily was provided to help with her anxiety.
+ 
+ 5. Depression.
+ - Medical Reasoning: The patient is experiencing depression secondary to her recent diagnosis of stage III non-small cell lung cancer.
+ - Patient Education and Counseling: We discussed the etiology of her depression and that a prescription of Zoloft 50
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[doctor] okay [patient] thank you [doctor] you're welcome
+
+Summary of assessment and plan
+[Answer] 4. Hyperlipidemia.
+ - Medical Treatment: She can continue on Lipitor 10 mg daily.
+ 
+ 5. Obesity.
+ - Medical Treatment: She can continue on Xenical 120 mg three times daily.
+ 
+ 6. Depression.
+ - Medical Treatment: She can continue on Zoloft 100 mg daily.
+ 
+ 7. Anxiety.
+ - Medical Treatment: She can continue on Xanax 0.5 mg three times daily.
+ 
+ 8. Insomnia.
+ - Medical Treatment: She can continue on Ambien 10 mg once daily.
+ 
+ 9. Osteoarth
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+
+
+Summary of assessment and plan
+[Answer] I have also asked her to continue to take her iron supplements with vitamin C and to eat a diet rich in iron. She should avoid tea and coffee with meals as they can interfere with iron absorption.
+
+I have asked her to avoid alcohol and tobacco use.
+
+I have asked her to avoid nonsteroidal anti-inflammatory drugs (NSAIDs) as they can cause GI bleeding.
+
+I have asked her to avoid aspirin as it can cause GI bleeding.
+
+I have asked her to avoid herbal supplements as they can cause GI bleeding.
+
+I have asked her to avoid over-the-counter (OTC) medications as they can cause GI bleeding.
+
+I have asked
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[doctor] thank you
+
+Summary of assessment and plan
+[Answer] 3. Weight.
+ - Medical Reasoning: The patient is overweight. She is not currently exercising.
+ - Patient Education and Counseling: I explained to the patient that she needs to start exercising. I also explained to her that she needs to start eating healthier.
+ - Medical Treatment: I would like for the patient to start exercising. She will also start eating healthier.
+ 
+ 4. Smoking.
+ - Medical Reasoning: The patient is a smoker. She has been smoking for 1 year.
+ - Patient Education and Counseling: I explained to the patient that she needs to stop smoking. I also explained to her that smoking is bad for her health.
+ - Medical Treatment: I
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[patient] thank you
+
+Summary of assessment and plan
+[Answer] I have also instructed the patient to return to the office in 4 weeks for a follow-up visit.
+
+© BrainMass Inc. brainmass.com October 10, 2019, 1:00 am ad1c9bdddf
+https://brainmass.com/health-sciences/nursing/clinical-assessment-and-plan-11335
+
+This solution provides a clinical assessment and plan for a patient with hallux rigidus.
+
+$2.19
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[patient] okay. [doctor] all right. so, i'll see you in six months. [patient] okay. [doctor] all right. [patient] thank you. [doctor] you're welcome. [patient] bye. [doctor] bye.
+
+Summary of assessment and plan
+[Answer] 10 months status post rotator cuff repair.
+ • Medical Reasoning: He is doing well postoperatively. He has progressed from formal physical therapy to solely home exercise.
+ • Medical Treatment: Continue with home exercise.
+ 
+ 12 months status post rotator cuff repair.
+ • Medical Reasoning: He is doing well postoperatively. He has progressed from formal physical therapy to solely home exercise.
+ • Medical Treatment: Continue with home exercise.
+ 
+ 14 months status post rotator cuff repair.
+ • Medical Reasoning: He is doing well postoperatively. He has progressed from formal physical therapy to solely home exercise.
+ • Medical Treatment: Continue with home exercise
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+thank you very much [patient] thank you
+
+Summary of assessment and plan
+[Answer] 2. Chronic obstructive pulmonary disease (COPD).
+ - Medical Reasoning: The patient has a history of smoking and has been experiencing shortness of breath and coughing for 2 to 3 months. The patient has a history of COPD and has been prescribed a bronchodilator. The patient has been noncompliant with his medications and has not been using his inhaler.
+ - Patient Education and Counseling: The patient and I discussed the importance of using his inhaler and the need to stop smoking. I explained that smoking is the leading cause of COPD and that smoking cessation is the best way to prevent further damage to his lungs. I also explained that the inhaler is a bronchodil
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+great thank you very much [patient] thank you [doctor] bye-bye
+
+Summary of assessment and plan
+[Answer] The patient was advised to follow up in 7 days.
+
+© BrainMass Inc. brainmass.com October 10, 2019, 1:00 am ad1c9bdddf
+https://brainmass.com/health-sciences/nursing/clinical-assessment-and-plan-11335
+
+This solution provides a clinical assessment and plan for a patient with right knee pain.
+
+$2.19
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[patient] all right. [doctor] all right. [patient] thank you. [doctor] you're welcome. [patient] thank you. [doctor] you're welcome. [patient] bye. [doctor] bye.
+
+Summary of assessment and plan
+[Answer] 1. What is the most likely diagnosis?
+ 2. What is the differential diagnosis?
+ 3. What is the most likely cause of the patient’s symptoms?
+ 4. What is the most likely diagnosis?
+ 5. What is the differential diagnosis?
+ 6. What is the most likely cause of the patient’s symptoms?
+ 7. What is the most likely diagnosis?
+ 8. What is the differential diagnosis?
+ 9. What is the most likely cause of the patient’s symptoms?
+ 10. What is the most likely diagnosis?
+ 11. What is the differential diagnosis?
+ 12. What is the most likely cause of the patient’s symptoms?
+ 13. What is
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+
+
+Summary of assessment and plan
+[Answer] 4. Diabetes.
+ - Medical Reasoning: The patient is doing well on his current medication regimen. He is monitoring his blood sugar at home and has not had any elevated readings.
+ - Medical Treatment: He will continue taking metformin 500 mg twice a day.
+ 
+ 5. Hyperlipidemia.
+ - Medical Reasoning: The patient is doing well on his current medication regimen. He is monitoring his lipid panel at home and has not had any elevated readings.
+ - Medical Treatment: He will continue taking atorvastatin 10 mg once a day.
+ 
+ 6. Chronic obstructive pulmonary disease.
+ - Medical Re
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[doctor] you're welcome
+
+Summary of assessment and plan
+[Answer] 3. Hypertension.
+ - Medical Reasoning: Stable.
+ - Patient Education and Counseling: I encouraged the patient to continue to follow up with his primary care physician.
+ - Medical Treatment: Continue medication therapy and routine follow up with primary care physician as previously outlined.
+ 
+ 4. Diabetes mellitus.
+ - Medical Reasoning: Stable.
+ - Patient Education and Counseling: I encouraged the patient to continue to follow up with his primary care physician.
+ - Medical Treatment: Continue medication therapy and routine follow up with primary care physician as previously outlined.
+ 
+ 5. Hyperlipidemia.
+ - Medical Reasoning: Stable.
+ -
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+
+
+Summary of assessment and plan
+[Answer] ### "Get 15% discount on your first 3 orders with us" Use the following coupon FIRST15
+
+Order Now
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[patient] thank you. [doctor] you're welcome.
+
+Summary of assessment and plan
+[Answer] 1. What is the most likely diagnosis?
+ 2. What is the most likely cause of the patient’s symptoms?
+ 3. What is the most likely diagnosis?
+ 4. What is the most likely cause of the patient’s symptoms?
+ 5. What is the most likely diagnosis?
+ 6. What is the most likely cause of the patient’s symptoms?
+ 7. What is the most likely diagnosis?
+ 8. What is the most likely cause of the patient’s symptoms?
+ 9. What is the most likely diagnosis?
+ 10. What is the most likely cause of the patient’s symptoms?
+ 11. What is the most likely diagnosis?
+ 12. What is the most
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+so i'll see you in a month
+
+Summary of assessment and plan
+[Answer] 
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[doctor] so, i'm gon na go ahead and discharge you home. [patient] okay. [doctor] and i'm gon na go ahead and order a follow-up with dr. reyes in a couple weeks. [patient] okay. [doctor] all right. [patient] thank you. [doctor] you're welcome. [patient] thank you. [doctor] all right. [patient] thank you. [doctor] all right. [patient] thank you. [doctor] all right. [patient] thank you. [doctor] all right. [patient] thank you. [doctor] all right. [patient] thank you. [doctor] all right. [
+
+Summary of assessment and plan
+[Answer] 1. What is the most important thing to consider when assessing a patient with hyperglycemia?
+ 2. What is the most important thing to consider when assessing a patient with depression?
+ 3. What is the most important thing to consider when assessing a patient with a kidney transplant?
+ 4. What is the most important thing to consider when assessing a patient with a kidney transplant?
+ 5. What is the most important thing to consider when assessing a patient with a kidney transplant?
+ 6. What is the most important thing to consider when assessing a patient with a kidney transplant?
+ 7. What is the most important thing to consider when assessing a patient with a kidney trans
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+so i'm gon na have the nurse come in and get you prepped for that procedure and then we'll see you back in seven days [patient] okay sounds good [doctor] alright thank you very much
+
+Summary of assessment and plan
+[Answer] I have also recommended that he continue to follow up with his primary care physician to ensure that we are monitoring his blood pressure and his cholesterol. I have also recommended that he continue to follow up with his podiatrist to ensure that we are monitoring his foot ulcer.
+
+I have recommended that he continue to follow up with his primary care physician to ensure that we are monitoring his blood pressure and his cholesterol. I have also recommended that he continue to follow up with his podiatrist to ensure that we are monitoring his foot ulcer.
+
+I have recommended that he continue to follow up with his primary care physician to ensure that we are monitoring his blood pressure and his cholesterol. I have also recommended that he continue to follow up with
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[patient] okay. [doctor]... and we'll see you in a month. [patient] okay. [doctor] all right. [patient] thank you. [doctor] you're welcome.
+
+Summary of assessment and plan
+[Answer] 
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+-bye
+
+Summary of assessment and plan
+[Answer] 4. Hyperlipidemia.
+ - Medical Reasoning: This seems stable at this time.
+ - Medical Treatment: Continue taking Lipitor 80 mg daily.
+ 
+ 5. Obesity.
+ - Medical Reasoning: This seems stable at this time.
+ - Patient Education and Counseling: We discussed that he should continue to watch his diet and salt intake.
+ - Medical Treatment: Continue taking aspirin 81 mg daily. Continue taking Brilinta 90 mg twice a day. Continue taking Lipitor 80 mg daily. Continue taking Toprol 50 mg daily. I will refer him to cardiac rehab.
+ 
+ 6. Di
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+-bye
+
+Summary of assessment and plan
+[Answer] 
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+gon na go ahead and hit it and i'm just gon na go ahead and hit it and i'm just gon na go ahead and hit it and i'm just gon na go ahead and hit it and i'm just gon na go ahead and hit it and i'm just gon na go ahead and hit it and i'm just gon na go ahead and hit it and i'm just gon na go ahead and hit it and i'm just gon na go ahead and hit it and i'm just gon na go ahead and hit it and i'm just gon na go ahead and hit it and i'm just gon na go ahead and hit it and i'm just gon na go
+
+Summary of assessment and plan
+[Answer] 4. Hypertension.
+ - Medical Reasoning: The patient is currently doing well with his hypertension.
+ - Medical Treatment: We will continue him on metoprolol 50 mg twice a day.
+ 
+ 5. Hyperlipidemia.
+ - Medical Reasoning: The patient is currently doing well with his hyperlipidemia.
+ - Medical Treatment: We will continue him on Lipitor 40 mg a day.
+ 
+ 6. Obesity.
+ - Medical Reasoning: The patient is currently doing well with his obesity.
+ - Medical Treatment: We will continue him on metformin 1000 mg twice a day.
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[patient] okay. [doctor] all right. [patient] thank you. [doctor] you're welcome. [patient] thank you. [doctor] bye. [patient] bye.
+
+Summary of assessment and plan
+[Answer] 1. What is the most likely diagnosis for this patient?
+ 2. What is the most likely diagnosis for this patient?
+ 3. What is the most likely diagnosis for this patient?
+ 4. What is the most likely diagnosis for this patient?
+ 5. What is the most likely diagnosis for this patient?
+ 6. What is the most likely diagnosis for this patient?
+ 7. What is the most likely diagnosis for this patient?
+ 8. What is the most likely diagnosis for this patient?
+ 9. What is the most likely diagnosis for this patient?
+ 10. What is the most likely diagnosis for this patient?
+ 11. What is the most likely diagnosis for this patient?
+ 12. What
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[patient] bye [doctor] bye
+
+## Expert Answer
+
+The patient is a 3-year-old female with no significant past medical history who comes in for evaluation of a new right eye twitch. The patient is accompanied by her father. The patient has been having this eye twitch for a couple of weeks. The patient’s father noticed the twitch when he talked to her pediatrician and they told him to come see the doctor. The patient has been having this eye twitch for a couple of weeks. The patient’s father noticed the twitch when he talked to her pediatrician and they told him to come see the doctor. The patient has been having this eye twitch for a couple of weeks. The patient
+
+Summary of assessment and plan
+[Answer] 2. Mild asthma.
+ - Medical Reasoning: The patient's father provided a video today as she did not have a wheeze in office. It appears the patient is experiencing a wheeze.
+ - Patient Education and Counseling: The patient's father was advised that the wheeze is likely due to a viral upper respiratory infection. I explained that the wheeze is a sign of airway obstruction and that the wheeze is caused by the airway narrowing. I explained that the wheeze is a sign of airway obstruction and that the wheeze is caused by the airway narrowing. I explained that the wheeze is a sign of airway obstruction and that the wheeze is caused by the airway
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+
+
+Summary of assessment and plan
+[Answer] 4. Hyperlipidemia.
+ - Medical Reasoning: The patient’s lipid panel shows her total cholesterol is 220 mg/dL, LDL is 140 mg/dL, HDL is 40 mg/dL, and triglycerides are 180 mg/dL.
+ - Patient Education and Counseling: We discussed the importance of diet and exercise.
+ - Medical Treatment: I have placed an order for a lipid panel.
+ 
+ 5. Obesity.
+ - Medical Reasoning: The patient’s BMI is 35.
+ - Patient Education and Counseling: We discussed the importance of diet
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+
+
+Summary of assessment and plan
+[Answer] I will administer the injection in the office. I will use a 22-gauge 1.5-inch needle. I will use a 1-cc syringe with 1 cc of 1% lidocaine and 40 mg of triamcinolone. I will inject the medication into the right hip joint. I will use aseptic technique. I will use a sterile drape and sterile gloves. I will use a sterile needle and syringe. I will use a sterile alcohol swab to clean the skin. I will use a sterile alcohol swab to clean the needle. I will use a sterile alcohol swab to clean the syringe. I will use a sterile alcohol swab to clean the
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[patient] okay. [doctor] all right. so, i'm gon na go ahead and write you a prescription for the lasix. i'm gon na go ahead and write you a referral to the gastroenterologist. and i'm gon na go ahead and write you a prescription for the toprol and the lisinopril. [patient] okay. [doctor] all right. so, i'm gon na go ahead and give you a prescription for the lasix. i'm gon na go ahead and give you a prescription for the toprol. i'm gon na go ahead and give you a prescription for the lisinopril. and i'm gon na go
+
+Summary of assessment and plan
+[Answer] 1. What is the most likely diagnosis?
+ 2. What is the differential diagnosis?
+ 3. What is the most likely diagnosis?
+ 4. What is the differential diagnosis?
+ 5. What is the most likely diagnosis?
+ 6. What is the differential diagnosis?
+ 7. What is the most likely diagnosis?
+ 8. What is the differential diagnosis?
+ 9. What is the most likely diagnosis?
+ 10. What is the differential diagnosis?
+ 11. What is the most likely diagnosis?
+ 12. What is the differential diagnosis?
+ 13. What is the most likely diagnosis?
+ 14. What is the differential diagnosis?
+ 15. What is the most likely
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[doctor] all right. so, i'm gon na go ahead and go ahead and get you checked out. [patient] okay. [doctor] thank you so much for coming in today. [patient] thank you. [doctor] bye. [patient] bye.
+
+Summary of assessment and plan
+[Answer] 1. What is the most important information to be conveyed to the patient?
+ 2. What is the most likely diagnosis?
+ 3. What are the possible differential diagnoses?
+ 4. What are the most important diagnostic tests to order?
+ 5. What is the most likely treatment?
+ 6. What is the most likely prognosis?
+ 7. What is the most likely disposition?
+ 8. What is the most likely follow-up plan?
+ 9. What is the most likely patient education plan?
+ 10. What is the most likely patient counseling plan?
+ 11. What is the most likely patient referral plan?
+ 12. What is the most likely patient discharge plan
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[doctor] all right. [doctor] so, logan, i'm going to go ahead and go ahead and write you a prescription for the meloxicam. [patient] okay. [doctor] and i'm going to go ahead and write you a prescription for the metformin. [patient] okay. [doctor] and i'm going to go ahead and write you a prescription for the lisinopril. [patient] okay. [doctor] and i'm going to go ahead and write you a prescription for the lisinopril. [patient] okay. [doctor] and i'm going to go ahead and write you a prescription for the lisinopril. [patient] okay
+
+Summary of assessment and plan
+[Answer] 1. What is the most likely diagnosis for Mr. Walker?
+ 2. What is the most likely diagnosis for Mr. Walker?
+ 3. What is the most likely diagnosis for Mr. Walker?
+ 4. What is the most likely diagnosis for Mr. Walker?
+ 5. What is the most likely diagnosis for Mr. Walker?
+ 6. What is the most likely diagnosis for Mr. Walker?
+ 7. What is the most likely diagnosis for Mr. Walker?
+ 8. What is the most likely diagnosis for Mr. Walker?
+ 9. What is the most likely diagnosis for Mr. Walker?
+ 10. What is the most likely diagnosis for Mr. Walker?
+ 11. What is the most likely diagnosis
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+you're welcome bye-bye
+
+Summary of assessment and plan
+[Answer] 3. Hypertension.
+ - Medical Reasoning: Patient has been inconsistent with her blood pressure medication.
+ - Patient Education and Counseling: We discussed the importance of taking her blood pressure medication daily.
+ - Medical Treatment: She will continue taking lisinopril 10 mg daily.
+ 
+ 4. Hyperlipidemia.
+ - Medical Reasoning: Patient has been inconsistent with her cholesterol medication.
+ - Patient Education and Counseling: We discussed the importance of taking her cholesterol medication daily.
+ - Medical Treatment: She will continue taking atorvastatin 10 mg daily.
+ 
+ 5. Obesity.
+ -
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+
+
+Summary of assessment and plan
+[Answer] Mr. Ward is a 52-year-old male who has a benign appearing pituitary adenoma discovered on work up for worsening headaches. There is clinical and radiographical evidence of optic chiasmal compression, examination today revealed a bitemporal hemianopia. Radiographically this appears to be a benign pituitary adenoma but that there was no way to be sure without a pathological diagnosis. Surgical intervention to excise and decompress the pituitary fossa is indicated given optic chiasmal compression.
+
+Pituitary adenoma.
+ We discussed the general indications for surgical intervention. The risks, benefits to trans-sphenoidal resection were
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[patient] thank you [doctor] you're welcome
+
+Summary of assessment and plan
+[Answer] 
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[doctor] the patient was scheduled for a wide local excision of the right inferior back. [doctor] the patient was scheduled for a wide local excision of the right inferior back. [doctor] the patient was scheduled for a wide local excision of the right inferior back. [doctor] the patient was scheduled for a wide local excision of the right inferior back. [doctor] the patient was scheduled for a wide local excision of the right inferior back. [doctor] the patient was scheduled for a wide local excision of the right inferior back. [doctor] the patient was scheduled for a wide local excision of the right inferior back. [doctor] the patient was scheduled for a wide local excision of the right inferior back.
+
+Summary of assessment and plan
+[Answer] © BrainMass Inc. brainmass.com October 10, 2019, 1:00 am ad1c9bdddf
+https://brainmass.com/health-sciences/nursing/clinical-assessment-and-plan-46252
+
+This solution provides a clinical assessment and plan for a patient with melanoma.
+
+$2.19
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+bye. [patient] bye.
+
+Summary of assessment and plan
+[Answer] The patient agreed to this plan.
+
+The patient was seen in the clinic for a follow-up visit. She was seen by a nurse practitioner. The patient was seen for a follow-up visit for a pap smear and bilateral breast cysts. The patient was seen for a follow-up visit for a pap smear and bilateral breast cysts. The patient was seen for a follow-up visit for a pap smear and bilateral breast cysts. The patient was seen for a follow-up visit for a pap smear and bilateral breast cysts. The patient was seen for a follow-up visit for a pap smear and bilateral breast cysts. The patient was seen for a follow-up visit for a pap
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+
+
+Summary of assessment and plan
+[Answer] 1. What is the most important information to be conveyed to the patient?
+ 2. What information should be provided to the patient's family?
+ 3. What information should be provided to the patient's primary care provider?
+ 4. What information should be provided to the patient's specialist?
+ 5. What information should be provided to the patient's pharmacist?
+ 6. What information should be provided to the patient's insurance company?
+ 7. What information should be provided to the patient's employer?
+ 8. What information should be provided to the patient's school?
+ 9. What information should be provided to the patient's attorney?
+ 10. What information should be provided to
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[doctor] alright [patient] bye [doctor] bye
+
+Summary of assessment and plan
+[Answer] 
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+so i'm gon na go ahead and write you a prescription for the robaxin and i'm gon na go ahead and write you a prescription for the mri and i'm gon na go ahead and write you a prescription for the physical therapy and i'm gon na go ahead and write you a prescription for the pain clinic and i'm gon na go ahead and write you a prescription for the work excuse and i'm gon na go ahead and write you a prescription for the referral to the pain clinic and i'm gon na go ahead and write you a prescription for the referral to the physical therapy and i'm gon na go ahead and write you a prescription for the referral to the pain clinic and i'
+
+Summary of assessment and plan
+[Answer] I have also advised him to follow up with me in 2 weeks.
+
+© BrainMass Inc. brainmass.com October 10, 2019, 1:00 am ad1c9bdddf
+https://brainmass.com/health-sciences/nursing/clinical-assessment-and-plan-11140
+
+This solution provides a clinical assessment and plan for a patient with a neck sprain.
+
+$2.19
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[doctor] you're welcome
+
+Summary of assessment and plan
+[Answer] 2. Hypertension.
+ - Medical Reasoning: The patient's blood pressure is elevated.
+ - Patient Education and Counseling: I explained the importance of diet and exercise in controlling her blood pressure. I also explained the importance of taking her medication as prescribed.
+ - Medical Treatment: Prescribed provided for Amlodipine 5 mg daily.
+ 
+ 3. Hyperlipidemia.
+ - Medical Reasoning: The patient's lipid panel is elevated.
+ - Patient Education and Counseling: I explained the importance of diet and exercise in controlling her lipid levels. I also explained the importance of taking her medication as prescribed.
+ - Medical Treatment: Prescribed
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[patient_guest] thank you. [doctor] bye. [patient_guest] bye.
+
+Summary of assessment and plan
+[Answer] 
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+so i'm gon na go ahead and write you a prescription for the oxycodone and i'm gon na give you a strainer and i'm gon na give you a referral to urology and i'm gon na give you a referral to nutrition and i'm gon na give you a prescription for the oxycodone and i'm gon na give you a strainer and i'm gon na give you a referral to urology and i'm gon na give you a referral to nutrition and i'm gon na give you a prescription for the oxycodone and i'm gon na give you a strainer and i'm gon na give you a
+
+Summary of assessment and plan
+[Answer] 4. Hyperlipidemia.
+ - Medical Reasoning: Patient is currently stable and has not had any elevated lipid levels.
+ - Patient Education and Counseling: We discussed the importance of diet modification.
+ - Medical Treatment: Continue Lipitor 10 mg daily. Continue with home lipid monitoring 3 times per week. Referral to a dietitian was provided.
+ 
+ 5. Obesity.
+ - Medical Reasoning: Patient is currently stable and has not had any elevated weight readings.
+ - Patient Education and Counseling: We discussed the importance of diet modification.
+ - Medical Treatment: Continue with home weight monitoring 3 times per week. Refer
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+
+
+Summary of assessment and plan
+[Answer] 4. History of hypertension.
+ - Medical Reasoning: Stable with medication.
+ - Patient Education and Counseling: I advised him to continue to watch for foods that will exacerbate his blood pressure.
+ - Medical Treatment: He will continue his lisinopril.
+ 
+ 5. History of hyperlipidemia.
+ - Medical Reasoning: Stable with medication.
+ - Patient Education and Counseling: I advised him to continue to watch for foods that will exacerbate his cholesterol levels.
+ - Medical Treatment: He will continue his atorvastatin.
+ 
+ 6. History of obesity.
+ - Medical Reasoning: St
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[doctor] paragraph, discharge. he'll be discharged to home. [doctor] paragraph, follow-up. he'll be seen in the office in two weeks. [doctor] paragraph, instructions. he'll be given a prescription for gabapentin. he'll be given a prescription for an mri of the cervical spine. he'll be given a prescription for a left c7-t1 epidural. [doctor] paragraph, referrals. none. [doctor] paragraph, orders. none. [doctor] paragraph, signature. [doctor] [patient] [doctor] [patient] [doctor] [patient] [doctor] [patient] [doctor] [
+
+Summary of assessment and plan
+[Answer] 1. What is the most likely diagnosis?
+
+2. What is the differential diagnosis?
+
+3. What is the most likely cause of the patient’s symptoms?
+
+4. What is the most likely cause of the patient’s symptoms?
+
+5. What is the most likely cause of the patient’s symptoms?
+
+6. What is the most likely cause of the patient’s symptoms?
+
+7. What is the most likely cause of the patient’s symptoms?
+
+8. What is the most likely cause of the patient’s symptoms?
+
+9. What is the most likely cause of the patient’s symptoms?
+
+10. What is the most likely cause of the patient’s symptoms?
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+in 10 to 20 percent of cases and is associated with a higher incidence of ulnar nerve injury [patient] i'm sorry [doctor] pardon what [patient] a what [doctor] we're gon na brace you we're gon na give you a brace [patient] okay thank you [doctor] sorry no problem yeah not a thumb spica we're gon na brace your arm and you're gon na have that we we have a couple of options but i think the best course of action is gon na be for surgery we will in the meantime give you pain medication i wan na put you on fifty milligrams of ultram every six hours and then i also wan na
+
+Summary of assessment and plan
+[Answer] The patient has been given a copy of the above plan and has signed the informed consent form.
+
+© BrainMass Inc. brainmass.com October 10, 2019, 1:00 am ad1c9bdddf
+https://brainmass.com/nursing/nursing-care-plans/nursing-care-plan-colles-fracture-46252
+
+This solution provides a nursing care plan for a patient with a Colles fracture.
+
+$2.19
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[doctor] i've ordered the following labs : alkaline phosphatase, gt, mmr titer, and shingles vaccine. [doctor] i've ordered the following studies : echocardiogram, stress test, and pfts. [doctor] i've ordered the following referrals : urology for a possible ultrasound. [doctor] i've ordered the following medications : clindamycin prior to dental procedures. [doctor] i've ordered the following immunizations : mmr titer and shingles vaccine. [doctor] i've ordered the following procedures : echocardiogram, stress test, and pfts. [doctor]
+
+Summary of assessment and plan
+[Answer] - Recommend colonoscopy in 2 years.
+ - Recommend PSA in 1 year.
+ - Recommend mammogram in 1 year.
+ - Recommend dental exam in 6 months.
+ - Recommend eye exam in 1 year.
+ - Recommend skin exam in 1 year.
+ - Recommend stress test in 1 year.
+ - Recommend echocardiogram in 1 year.
+ - Recommend pulmonary function testing in 1 year.
+ - Recommend urology consult in 1 month.
+ - Recommend cardiology consult in 1 month.
+ - Recommend endocrinology consult in 1 month.
+ -
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+
+
+Summary of assessment and plan
+[Answer] The patient is a 72-year-old female with a history of hypertension, diabetes mellitus, and chronic congestive heart failure. She is currently on the following medications:
+
+• Torsemide 20 mg daily
+• Metformin 1000 mg twice daily
+• Lisinopril 20 mg daily
+• Aspirin 81 mg daily
+• Clopidogrel 75 mg daily
+• Simvastatin 40 mg daily
+• Omeprazole 20 mg daily
+• Magnesium 250 mg daily
+
+The patient is scheduled for a right knee replacement surgery in the next month. She is overdue for a colonoscopy
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+i said i'll try to get my blood sugars down [doctor] okay [patient] and i'll try to get my diet under control [doctor] okay [patient] and i'll try to get my sleep under control [doctor] okay [patient] and i'll try to get my sleep under control [doctor] okay [patient] and i'll try to get my sleep under control [doctor] okay [patient] and i'll try to get my sleep under control [doctor] okay [patient] and i'll try to get my sleep under control [doctor] okay [patient] and i'll try to get my sleep under control [doctor] okay [patient] and i'll try to
+
+Summary of assessment and plan
+[Answer] 5. Depression.
+ - Medical Reasoning: The patient has a history of depression.
+ - Patient Education and Counseling: We discussed the importance of exercise and socialization.
+ - Medical Treatment: I have recommended she take 10 mg of melatonin as needed.
+ 
+ 6. Anxiety.
+ - Medical Reasoning: The patient has a history of anxiety.
+ - Patient Education and Counseling: We discussed the importance of exercise and socialization.
+ - Medical Treatment: I have recommended she take 10 mg of melatonin as needed.
+ 
+ 7. Hyperlipidemia.
+ - Medical Reasoning: The patient has a history of hyperlipid
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[doctor] okay [patient] thank you [doctor] you're welcome [patient] bye [doctor] bye
+
+Summary of assessment and plan
+[Answer] 4. Hypertension.
+ - Medical Reasoning: This remains well-controlled.
+ - Medical Treatment: The patient will continue his lisinopril 10 mg daily.
+ 
+ 5. Hyperlipidemia.
+ - Medical Reasoning: This remains well-controlled.
+ - Medical Treatment: The patient will continue his atorvastatin 10 mg daily.
+ 
+ 6. Gastroesophageal reflux disease.
+ - Medical Reasoning: This remains well-controlled.
+ - Medical Treatment: The patient will continue his omeprazole 20 mg daily.
+ 
+ 7. Chronic obstructive pulmonary disease.
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+
+
+Summary of assessment and plan
+[Answer] 4. Hyperlipidemia.
+ - Medical Reasoning: He is doing a good job managing his cholesterol levels.
+ - Patient Education and Counseling: We discussed that he is doing a good job with his diet and exercise.
+ - Medical Treatment: Continue atorvastatin 40 mg once a day. Lipid panel ordered to assess his cholesterol levels.
+ 
+ 5. Gout.
+ - Medical Reasoning: He is doing a good job managing his gout.
+ - Patient Education and Counseling: We discussed that he is doing a good job with his diet and exercise.
+ - Medical Treatment: Continue allopurinol 300 mg
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[doctor] so, mr. gutierrez, i'm going to have the nurse come in and give you a shot in your finger. [nurse] okay, so i'm going to have you sit up on the edge of the bed. [doctor] okay, so i'm going to have you sit up on the edge of the bed. [nurse] okay, so i'm going to have you sit up on the edge of the bed. [doctor] okay, so i'm going to have you sit up on the edge of the bed. [nurse] okay, so i'm going to have you sit up on the edge of the bed. [doctor] okay, so i'm
+
+Summary of assessment and plan
+[Answer] 
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+
+
+Summary of assessment and plan
+[Answer] 
+--------------------------------------------------------------------------------
+#D2N: Summary of the patient/doctor conversation in 50 words or less.
+[patient] thank you. [doctor] you're welcome.
+
+Summary of assessment and plan
+[Answer] I recommended she continue to use the hair removal cream.
+--------------------------------------------------------------------------------
