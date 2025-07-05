@@ -18,11 +18,11 @@ for i in data:
 
 # === Models to evaluate ===
 models = {
-    # "llama2-7b": "meta-llama/Llama-2-7b-hf",
-    # "llama3.1-8b": "meta-llama/Meta-Llama-3-8B",
-    # "qwen2.5-7b": "Qwen/Qwen2.5-7B",
-    # "phi-4": "microsoft/phi-4"
-     "mistral-7b": "mistralai/Mistral-7B-v0.1"
+    "llama2-7b": "meta-llama/Llama-2-7b-hf",
+    "llama3.1-8b": "meta-llama/Meta-Llama-3-8B",
+    "qwen2.5-7b": "Qwen/Qwen2.5-7B",
+    #"phi-4": "microsoft/phi-4"
+    "mistral-7b": "mistralai/Mistral-7B-v0.1"
 }
 
 def build_prompt(article):
