@@ -42,3 +42,27 @@ Clone this repository and install the required libraries:
 - pip install pandas matplotlib seaborn
 - pip install rouge-score
 
+# Outputs
+
+After running the scripts, the following files and folders will be generated:
+
+## Summaries (`final/`):
+Model-generated summaries for each dataset. These summaries are saved in **text** or **JSONL** files for every model used.
+
+## Energy/Carbon Tracking Data:
+CSV files containing:
+- **Energy consumption (kWh)**
+- **Carbon emissions (kg CO₂eq)**  
+for each summarization task, tracked using the CodeCarbon library.
+
+## ROUGE Scores:
+ROUGE evaluation results including:
+- **ROUGE-1**
+- **ROUGE-2**
+- **ROUGE-L**  
+stored in results CSV format for summarization quality assessment.
+
+## Visualizations:
+Plots to help analyze model performance and energy usage:
+- **Scatter Plots:** Showing carbon emissions vs input/output token counts for each model and dataset.
+- **Candlestick Plots:** Comparing energy consumption and carbon emissions across all models for every dataset.
