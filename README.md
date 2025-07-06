@@ -1,1 +1,1 @@
-Emissions Benchmarking for the task of medical summarization
+# Emissions Benchmarking for the task of medical summarization
