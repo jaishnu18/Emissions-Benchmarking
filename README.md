@@ -5,7 +5,10 @@ The repository contains scripts to generate summaries across various datasets us
 
 # Repository Structure
 
- Dataset folders (d2n/, chq/, etc.): Contain all code and results specific to that dataset.
+Dataset folders (d2n/, chq/, etc.): Contain all code and results specific to that dataset.
+
 final/: Stores the generated summaries for each model, along with recorded energy consumption and carbon emission values.
+
 plots/: Contains scatter plots showing carbon emissions vs. input/output tokens for each model on that dataset.
+
 modelcomparisons/: Contains candlestick plots comparing all models across datasets on energy consumption and carbon emission metrics.
