@@ -12,3 +12,21 @@ final/: Stores the generated summaries for each model, along with recorded energ
 plots/: Contains scatter plots showing carbon emissions vs. input/output tokens for each model on that dataset.
 
 modelcomparisons/: Contains candlestick plots comparing all models across datasets on energy consumption and carbon emission metrics.
+
+# Datasets Used:
+
+- [PubMedQA](https://huggingface.co/datasets/qiaojin/PubMedQA)
+- [D2N](https://github.com/StanfordMIMI/clin-summ/blob/main/data/d2n/test.jsonl)
+- [CHQ](https://github.com/StanfordMIMI/clin-summ/blob/main/data/chq/test.jsonl)
+- [OPI](https://github.com/StanfordMIMI/clin-summ/blob/main/data/opi/test.jsonl)
+- [CNN/DailyMail](https://huggingface.co/datasets/abisee/cnn_dailymail)
+- [XSum](https://huggingface.co/datasets/EdinburghNLP/xsum)
+- [IN-ABS](https://zenodo.org/records/7152317#.Yz6mJ9JByC0)
+- [UK-ABS](https://zenodo.org/records/7152317#.Yz6mJ9JByC0)
+
+# Models Used:
+
+- [LLaMA 2 7B](https://huggingface.co/meta-llama/Llama-2-7b-hf)
+- [LLaMA 3.1 8B](https://huggingface.co/meta-llama/Meta-Llama-3-8B)
+- [Qwen 2.5 7B](https://huggingface.co/Qwen/Qwen2.5-7B)
+- [Mistral 7B](https://huggingface.co/mistralai/Mistral-7B-v0.1)
