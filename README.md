@@ -13,7 +13,7 @@ plots/: Contains scatter plots showing carbon emissions vs. input/output tokens 
 
 modelcomparisons/: Contains candlestick plots comparing all models across datasets on energy consumption and carbon emission metrics.
 
-# Datasets Used:
+# Datasets Used
 
 - [PubMedQA](https://huggingface.co/datasets/qiaojin/PubMedQA): A biomedical question-answering dataset derived from PubMed abstracts, focusing on clinical yes/no/maybe questions and their explanations.
 - [D2N](https://github.com/StanfordMIMI/clin-summ/blob/main/data/d2n/test.jsonl): Clinical summarization dataset containing discharge notes (D) and their summaries (N), designed for hospital discharge narrative summarization.
@@ -24,9 +24,21 @@ modelcomparisons/: Contains candlestick plots comparing all models across datase
 - [IN-ABS](https://zenodo.org/records/7152317#.Yz6mJ9JByC0)
 - [UK-ABS](https://zenodo.org/records/7152317#.Yz6mJ9JByC0)
 
-# Models Used:
+# Models Used
 
 - [LLaMA 2 7B](https://huggingface.co/meta-llama/Llama-2-7b-hf): A 7-billion parameter open-weight language model developed by Meta, optimized for a range of natural language understanding and generation tasks.
 - [LLaMA 3.1 8B](https://huggingface.co/meta-llama/Meta-Llama-3-8B): The next-generation 8-billion parameter model from Meta's LLaMA series, providing improved performance, context understanding, and inference efficiency.
 - [Qwen 2.5 7B](https://huggingface.co/Qwen/Qwen2.5-7B): An open-weight language model from Alibaba's Qwen series, fine-tuned for instruction-following and summarization tasks with an emphasis on efficiency.
 - [Mistral 7B](https://huggingface.co/mistralai/Mistral-7B-v0.1): A high-performance 7-billion parameter model by Mistral AI, designed for fast inference and strong performance on text generation benchmarks.
+
+# Installation
+## Environment Setup
+Ensure you are using **Python 3.10 or higher**.  
+Clone this repository and install the required libraries:
+## Required libraries:
+- pip install transformers
+- pip install codecarbon
+- pip install torch
+- pip install pandas matplotlib seaborn
+- pip install rouge-score
+
